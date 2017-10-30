@@ -1,2 +1,2 @@
-# git-workshop
-GWU Libraries Collaborating With Github workshop
+# gwlibraries-workshops
+A place for sharing public documents (slides etc.) for GW Libraries workshops
