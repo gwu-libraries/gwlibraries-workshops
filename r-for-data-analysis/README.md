@@ -8,5 +8,5 @@ While we make no guarantees that the script is not without errors, we welcome yo
 
 Links for downloading files:
 
-- https://raw.githubusercontent.com/gwu-libraries/gwlibraries-workshops/master/r-for-data-analysis/gapminder.csv
-- https://github.com/gwu-libraries/gwlibraries-workshops/raw/master/r-for-data-analysis/education.xlsx
+- [gapminder.csv](https://raw.githubusercontent.com/gwu-libraries/gwlibraries-workshops/master/r-for-data-analysis/gapminder.csv) - Right-click and press "Save Link As"
+- [education.xlsx](https://github.com/gwu-libraries/gwlibraries-workshops/raw/master/r-for-data-analysis/education.xlsx)
