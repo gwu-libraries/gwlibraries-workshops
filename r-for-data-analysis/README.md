@@ -5,3 +5,8 @@ This folder contains materials for the GW Libraries/STEMWorks "Introduction to R
 Data sets are courtesy of [gapminder.org](gapminder.org).  Some sections of the script were inspired by materials avaiable elsewhere online - see the Acknolwedgments slide in the slide deck. 
 
 While we make no guarantees that the script is not without errors, we welcome your feeback.
+
+Links for downloading files:
+
+- https://raw.githubusercontent.com/gwu-libraries/gwlibraries-workshops/master/r-for-data-analysis/gapminder.csv
+- https://github.com/gwu-libraries/gwlibraries-workshops/raw/master/r-for-data-analysis/education.xlsx
