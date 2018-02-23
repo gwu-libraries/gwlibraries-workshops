@@ -1,0 +1,124 @@
+---
+output:
+  html_document: default
+  word_document: default
+  pdf_document: default
+---
+
+# Sample R Markdown document
+
+```{r}
+##load package to import excel file
+library(readxl)
+##import excel files
+data <- read_xlsx("data/cardiac.xlsx", 1)
+
+
+```
+
+```{r}
+## create a scatter plot
+library(ggplot2)
+data_plot <- ggplot(data, aes(x=Kilograms_body_weight, y=Heart_rate)) + geom_point()
+data_plot <- data_plot + ggtitle("Heart rate by body weight") +
+            labs(x = "Body weight in Kgs", y = "Heart rate at rest")
+data_plot
+
+```
+
+From the above scatter plot we can say that the heart rate at rest and body weight do not have a linear relationship.
+
+
+Compute $\hat{\beta_0}$ and $\hat{\beta_1}$ and write the regression equation for these data. Interpret the estimated regression coefficients.
+```{r}
+##compute regression coefficients - linear regression
+data_lr <- lm(Heart_rate ~ Kilograms_body_weight, data = data)
+
+##display the summary of the linear regression
+summary(data_lr)
+
+```
+
+From the above output we can write  values of *$\hat{\beta_0}$* and *$\hat{\beta_1}$* as below $\hat{\beta_0}$ = 52.42 and $\hat{\beta_1}$ = 0.54 .
+
+Regression equation is as follows:
+
+Heart_rate = $\hat{\beta_0}$ + $\hat{\beta_1}$ * Kilograms_body_weight
+
+Heart_rate = 52.42 + 0.54 * Kilograms_body_weight
+
+Interpretation of coefficients is as follows.
+
+$\hat{\beta_0}$ is 52.42 which means it is the fitted value of heart rate at rest when body weight is 0, in this case this relativeliy meaningless since body weight with 0 weight is not likely to happen.
+
+$\hat{\beta_1}$ is 0.54 which means an increase in body weight by 1 kilogram lead to increase in heart rate at rest by 0.54.
+
+
+place 95% confidence interval on  $\beta_0$ and $\beta_1$ : we will use SE from the above  regression output.
+SE($\hat{\beta_0}$) = 21.1795
+
+SE($\hat{\beta_1}$) = 0.3933
+
+95% confidence interval for $\hat{\beta_0}$ is {$\hat{\beta_0}$ - 1.96 * SE($\hat{\beta_0}$)},
+{$\hat{\beta_0}$ + 1.96 * SE($\hat{\beta_0}$)}.
+
+```{r}
+upper_interval = 52.4178 + (1.96 * 21.1795)
+
+upper_interval
+
+lower_interval = 52.4178 - (1.96 * 21.1795)
+
+lower_interval
+```
+Now we can say that the rate of change of conditional mean of heart rate at rest with respect to intercept ($\hat{\beta_0}$) is about 21.1795.
+
+95% confidence interval for $\hat{\beta_1}$ is {$\hat{\beta_1}$ - 1.96 * SE($\hat{\beta_1}$)},
+{$\hat{\beta_1}$ + 1.96 * SE($\hat{\beta_1}$)}.
+
+```{r}
+upper_interval = 0.5439 + (1.96 * 0.3933)
+
+upper_interval
+
+lower_interval = 0.5439 - (1.96 * 0.3933)
+
+lower_interval
+
+```
+Now we can say that the rate of change of conditional mean of heart rate at rest with respect to Kilograms_body_weight ($\hat{\beta_1}$) is about 0.3933.
+
+
+Plot the regression line on the graph from part 1.1
+
+```{r}
+
+data_plot1 <- ggplot(data, aes(x=Kilograms_body_weight, y=Heart_rate)) + geom_point(color='blue') + geom_smooth(method = "lm", color='red', se = FALSE)
+data_plot1 <- data_plot1 + ggtitle("Heart rate by body weight") +
+            labs(x = "Body weight in Kgs", y = "Heart rate at rest")
+data_plot1
+```
+
+Now examine the data point (67, 40). If this data point were removed from the data set, what changes would occur in the estimates of ????0 and ????1?
+
+```{r}
+##remove point (67, 40)
+data1 <- data[-c(3),]
+
+data1_plot <- ggplot(data1, aes(x=Kilograms_body_weight, y=Heart_rate)) + geom_point(color='blue') + geom_smooth(method = "lm", color='red', se = FALSE)
+data1_plot <- data1_plot + ggtitle("Heart rate by body weight") +
+            labs(x = "Body weight in Kgs", y = "Heart rate at rest")
+data1_plot
+
+```
+As we can see from the above scatter plot that, if we remove point (67, 40) regression line goes further away from origin which means coefficient value of intercept $\hat{\beta_0}$ will increase and coefficient value of body weight $\hat{\beta_1}$ will decrease.
+
+```{r}
+##regression coefficients
+data1_lr <- lm(Heart_rate ~ Kilograms_body_weight, data = data1)
+
+##display the summary of the linear regression
+summary(data1_lr)
+
+```
+From the above output we can see that the change in the values of intercept $\hat{\beta_0}$ and body weight $\hat{\beta_1}$.
