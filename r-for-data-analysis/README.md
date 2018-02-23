@@ -6,9 +6,9 @@ The gapminder.csv and education.xlsx data sets are courtesy of [gapminder.org](g
 
 While we make no guarantees that the script is not without errors, we welcome your feeback.
 
-Links for downloading files - Right-click and press "Save Link As":
+Links for downloading files:
 
-- [gapminder.csv](https://raw.githubusercontent.com/gwu-libraries/gwlibraries-workshops/master/r-for-data-analysis/data/gapminder.csv)
+- [gapminder.csv](https://raw.githubusercontent.com/gwu-libraries/gwlibraries-workshops/master/r-for-data-analysis/data/gapminder.csv) - Right-click and press "Save Link As"
 - [education.xlsx](https://github.com/gwu-libraries/gwlibraries-workshops/raw/master/r-for-data-analysis/data/education.xlsx)
 - [cardiac.xlsx](https://github.com/gwu-libraries/gwlibraries-workshops/raw/master/r-for-data-analysis/data/cardiac.xlsx)
-- [cardiac.Rmd](https://github.com/gwu-libraries/gwlibraries-workshops/raw/master/r-for-data-analysis/cardiac.Rmd)
+- [cardiac.Rmd](https://github.com/gwu-libraries/gwlibraries-workshops/raw/master/r-for-data-analysis/cardiac.Rmd) - Right-click and press "Save Link As"
