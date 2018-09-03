@@ -5,7 +5,7 @@ This is the repository for the Introduction to Python workshop at GW Libraries.
 
 # 1. Set up Anaconda
 
-Install Python 3 using Anaconda as described at http://swcarpentry.github.io/workshop-template/#python
+Install Python 3 using Anaconda as described at http://carpentries.github.io/workshop-template/#python
 
 Need help?  Email us:
 * Dan Kerchner at kerchner@gwu.edu
