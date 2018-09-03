@@ -9,8 +9,7 @@ Install Python 3 using Anaconda as described at http://swcarpentry.github.io/wor
 
 Need help?  Email us:
 * Dan Kerchner at kerchner@gwu.edu
-* Laura Wrubel at lwrubel@gwu.edu 
-* Justin Littman at justinlittman@gwu.edu
+* Laura Wrubel at lwrubel@gwu.edu
 
 # 2. Start Juypter Notebook
 
