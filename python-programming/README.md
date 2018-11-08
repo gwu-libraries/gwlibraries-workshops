@@ -7,9 +7,9 @@ The workshop materials are in the form of iPython notebooks.  Provided here are 
 
 * [Google Colaboratory](instructions/google_colab_instructions.pdf)
 
-   links for importing into Google Colab from Github:
-   - link:  https://github.com/gwu-libraries/gwlibraries-workshops/blob/master/python-programming/Python%20Workshop%20Part%201.ipynb
-   - link:  https://github.com/gwu-libraries/gwlibraries-workshops/blob/master/python-programming/Python%20Workshop%20Part%202.ipynb
+   For importing into Google Colab from Github:  Search on: `gwu-libraries/gwlibraries-workshops`
+   
+   
 * [Anaconda/Jupyter Notebook](instructions/anaconda_instructions.md)
 
 Need help?  Email us:
