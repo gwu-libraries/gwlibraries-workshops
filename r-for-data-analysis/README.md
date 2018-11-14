@@ -1,4 +1,13 @@
-# GW Libraries/STEMWorks "Introduction to R for Data Analysis" workshop materials
+# GW Libraries/STEMWorks "Introduction to R for Data Analysis" workshop 
+
+## Software Installation
+
+You will need R and R Studio for this workshop.  Please install:
+
+- R from [r-project.org](r-project.org) (install this first)
+- The free version of RStudio Desktop from [rstudio.com](https://www.rstudio.com/products/rstudio/download/)  (install this second) - select the Open Source License
+
+## Workshop Materials
 
 This folder contains materials for the GW Libraries/STEMWorks "Introduction to R for Data Analysis" workshops.  Materials are updated on an ongoing basis, so they are likely change (hopefully improve) over time.
 
