@@ -4,7 +4,7 @@
 
 You will need R and R Studio for this workshop.  Please install:
 
-- R from [r-project.org](r-project.org) (install this first)
+- R from [r-project.org](https://r-project.org) (install this first)
 - The free version of RStudio Desktop from [rstudio.com](https://www.rstudio.com/products/rstudio/download/)  (install this second) - select the Open Source License
 
 ## Workshop Materials
