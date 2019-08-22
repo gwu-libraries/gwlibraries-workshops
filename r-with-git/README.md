@@ -52,4 +52,10 @@ https://happygitwithr.com/install-git.html#install-git-windows
   
   Click OK
 
+### 5. Create a free Github account (if you don't already have one)
+
+Go to https://github.com/ and create a free Github account.
+
+Although we won't need it for this workshop, I would highly recommend for faculty and students to also take advantage of Github's education benefits (slightly different for faculty versus students) at: https://education.github.com/benefits 
+
 
