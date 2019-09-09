@@ -1,0 +1,26 @@
+---
+output:
+  html_document: default
+  word_document: default
+  pdf_document: default
+---
+
+# Title goes here
+
+## And a subtitle
+
+And some text below the subtitle
+
+```{r}
+# Put some code here
+
+```
+
+## Another subtitle 
+
+And some more text
+
+```{r}
+# Put some more code here
+
+```
