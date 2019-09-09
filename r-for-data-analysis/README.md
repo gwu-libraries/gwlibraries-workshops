@@ -19,5 +19,7 @@ Links for downloading files:
 
 - [gapminder.csv](https://raw.githubusercontent.com/gwu-libraries/gwlibraries-workshops/master/r-for-data-analysis/data/gapminder.csv) - Right-click and press "Save Link As"
 - [education.xlsx](https://github.com/gwu-libraries/gwlibraries-workshops/raw/master/r-for-data-analysis/data/education.xlsx)
+- [grades.xlsx](https://github.com/gwu-libraries/gwlibraries-workshops/raw/master/r-for-data-analysis/data/grades.xlsx)
 - [cardiac.xlsx](https://github.com/gwu-libraries/gwlibraries-workshops/raw/master/r-for-data-analysis/data/cardiac.xlsx)
 - [cardiac.Rmd](https://github.com/gwu-libraries/gwlibraries-workshops/raw/master/r-for-data-analysis/cardiac.Rmd) - Right-click and press "Save Link As"
+- [sample.Rmd](https://github.com/gwu-libraries/gwlibraries-workshops/raw/master/r-for-data-analysis/sample.Rmd) - Right-click and press "Save Link As"

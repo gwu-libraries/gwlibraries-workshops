@@ -1,0 +1,2983 @@
+"","country","year","expenditure per student"
+"1","Afghanistan","1998",NA
+"2","Albania","1998",NA
+"3","Algeria","1998",NA
+"4","American Samoa","1998",NA
+"5","Andorra","1998",NA
+"6","Angola","1998",NA
+"7","Antigua and Barbuda","1998",NA
+"8","Argentina","1998",20.2150790993884
+"9","Armenia","1998",NA
+"10","Aruba","1998",NA
+"11","Australia","1998",27.5484365343423
+"12","Austria","1998",NA
+"13","Azerbaijan","1998",NA
+"14","Bahamas","1998",NA
+"15","Bahrain","1998",NA
+"16","Bangladesh","1998",NA
+"17","Barbados","1998",NA
+"18","Belarus","1998",NA
+"19","Belgium","1998",NA
+"20","Belize","1998",NA
+"21","Benin","1998",NA
+"22","Bermuda","1998",NA
+"23","Bhutan","1998",NA
+"24","Bolivia","1998",52.226450813741
+"25","Bosnia and Herzegovina","1998",NA
+"26","Botswana","1998",NA
+"27","Brazil","1998",80.1250430286101
+"28","Brunei","1998",NA
+"29","Bulgaria","1998",NA
+"30","Burkina Faso","1998",NA
+"31","Burundi","1998",NA
+"32","Cambodia","1998",NA
+"33","Cameroon","1998",NA
+"34","Canada","1998",43.9967962504213
+"35","Cape Verde","1998",NA
+"36","Cayman Islands","1998",NA
+"37","Central African Rep.","1998",NA
+"38","Chad","1998",NA
+"39","Channel Islands","1998",NA
+"40","Chile","1998",20.9697533177599
+"41","China","1998",NA
+"42","Colombia","1998",33.6912240794235
+"43","Comoros","1998",NA
+"44","Congo, Dem. Rep.","1998",NA
+"45","Congo, Rep.","1998",NA
+"46","Costa Rica","1998",NA
+"47","Cote d'Ivoire","1998",NA
+"48","Croatia","1998",NA
+"49","Cuba","1998",116.264742289693
+"50","Cyprus","1998",NA
+"51","Czech Rep.","1998",NA
+"52","Denmark","1998",NA
+"53","Djibouti","1998",NA
+"54","Dominica","1998",NA
+"55","Dominican Rep.","1998",NA
+"56","Ecuador","1998",NA
+"57","Egypt","1998",NA
+"58","El Salvador","1998",10.2132266612711
+"59","Equatorial Guinea","1998",NA
+"60","Eritrea","1998",NA
+"61","Estonia","1998",NA
+"62","Ethiopia","1998",NA
+"63","Faeroe Islands","1998",NA
+"64","Fiji","1998",NA
+"65","Finland","1998",NA
+"66","France","1998",NA
+"67","French Polynesia","1998",NA
+"68","Gabon","1998",NA
+"69","Gambia","1998",NA
+"70","Georgia","1998",NA
+"71","Germany","1998",NA
+"72","Ghana","1998",NA
+"73","Gibraltar","1998",NA
+"74","Greece","1998",27.453596414689
+"75","Greenland","1998",NA
+"76","Grenada","1998",NA
+"77","Guam","1998",NA
+"78","Guatemala","1998",NA
+"79","Guinea","1998",NA
+"80","Guinea-Bissau","1998",NA
+"81","Guyana","1998",NA
+"82","Haiti","1998",NA
+"83","Honduras","1998",NA
+"84","Hong Kong, China","1998",NA
+"85","Hungary","1998",35.9865580635259
+"86","Iceland","1998",NA
+"87","India","1998",NA
+"88","Indonesia","1998",NA
+"89","Iran","1998",NA
+"90","Iraq","1998",NA
+"91","Ireland","1998",29.0439053511814
+"92","Isle of Man","1998",NA
+"93","Israel","1998",NA
+"94","Italy","1998",NA
+"95","Jamaica","1998",NA
+"96","Japan","1998",13.3270179828438
+"97","Jordan","1998",NA
+"98","Kazakhstan","1998",NA
+"99","Kenya","1998",NA
+"100","Kiribati","1998",NA
+"101","Korea, Dem. Rep.","1998",NA
+"102","Korea, Rep.","1998",7.02181759012846
+"103","Kosovo","1998",NA
+"104","Kuwait","1998",NA
+"105","Kyrgyzstan","1998",NA
+"106","Laos","1998",NA
+"107","Latvia","1998",34.2888568091748
+"108","Lebanon","1998",NA
+"109","Lesotho","1998",NA
+"110","Liberia","1998",NA
+"111","Libya","1998",NA
+"112","Liechtenstein","1998",NA
+"113","Lithuania","1998",NA
+"114","Luxembourg","1998",NA
+"115","Macao, China","1998",NA
+"116","Macedonia, FYR","1998",NA
+"117","Madagascar","1998",NA
+"118","Malawi","1998",NA
+"119","Malaysia","1998",NA
+"120","Maldives","1998",NA
+"121","Mali","1998",NA
+"122","Malta","1998",NA
+"123","Marshall Islands","1998",NA
+"124","Mauritania","1998",NA
+"125","Mauritius","1998",NA
+"126","Mayotte","1998",NA
+"127","Mexico","1998",NA
+"128","Micronesia, Fed. Sts.","1998",NA
+"129","Moldova","1998",NA
+"130","Monaco","1998",NA
+"131","Mongolia","1998",NA
+"132","Montenegro","1998",NA
+"133","Morocco","1998",NA
+"134","Mozambique","1998",NA
+"135","Myanmar","1998",NA
+"136","Namibia","1998",NA
+"137","Nepal","1998",NA
+"138","Netherlands","1998",NA
+"139","New Caledonia","1998",NA
+"140","New Zealand","1998",NA
+"141","Nicaragua","1998",NA
+"142","Niger","1998",NA
+"143","Nigeria","1998",NA
+"144","Northern Mariana Islands","1998",NA
+"145","Norway","1998",47.4063431232936
+"146","Oman","1998",NA
+"147","Pakistan","1998",NA
+"148","Palau","1998",NA
+"149","Panama","1998",NA
+"150","Papua New Guinea","1998",NA
+"151","Paraguay","1998",NA
+"152","Peru","1998",NA
+"153","Philippines","1998",NA
+"154","Poland","1998",36.3102648246292
+"155","Portugal","1998",NA
+"156","Puerto Rico","1998",NA
+"157","Qatar","1998",NA
+"158","Romania","1998",NA
+"159","Russia","1998",NA
+"160","Rwanda","1998",NA
+"161","Saint Kitts and Nevis","1998",NA
+"162","Saint Lucia","1998",NA
+"163","Saint Martin","1998",NA
+"164","Saint Vincent and the Grenadines","1998",NA
+"165","Samoa","1998",NA
+"166","San Marino","1998",NA
+"167","Sao Tome and Principe","1998",NA
+"168","Saudi Arabia","1998",NA
+"169","Senegal","1998",NA
+"170","Serbia","1998",NA
+"171","Seychelles","1998",NA
+"172","Sierra Leone","1998",NA
+"173","Singapore","1998",NA
+"174","Slovak Republic","1998",NA
+"175","Slovenia","1998",NA
+"176","Solomon Islands","1998",NA
+"177","Somalia","1998",NA
+"178","South Africa","1998",NA
+"179","Spain","1998",NA
+"180","Sri Lanka","1998",NA
+"181","Sudan","1998",NA
+"182","Suriname","1998",NA
+"183","Swaziland","1998",NA
+"184","Sweden","1998",NA
+"185","Switzerland","1998",NA
+"186","Syria","1998",NA
+"187","Tajikistan","1998",NA
+"188","Tanzania","1998",NA
+"189","Thailand","1998",45.7267181418197
+"190","Timor-Leste","1998",NA
+"191","Togo","1998",NA
+"192","Tonga","1998",0
+"193","Trinidad and Tobago","1998",NA
+"194","Tunisia","1998",NA
+"195","Turkey","1998",NA
+"196","Turkmenistan","1998",NA
+"197","Turks and Caicos Islands","1998",NA
+"198","Tuvalu","1998",NA
+"199","Uganda","1998",NA
+"200","Ukraine","1998",NA
+"201","United Arab Emirates","1998",NA
+"202","United Kingdom","1998",32.4564596396613
+"203","United States","1998",27.4514974938135
+"204","Uruguay","1998",NA
+"205","Uzbekistan","1998",NA
+"206","Vanuatu","1998",NA
+"207","Venezuela","1998",NA
+"208","Vietnam","1998",NA
+"209","Virgin Islands (U.S.)","1998",NA
+"210","West Bank and Gaza","1998",NA
+"211","Yemen, Rep.","1998",NA
+"212","Zambia","1998",NA
+"213","Zimbabwe","1998",NA
+"214","Afghanistan","1999",NA
+"215","Albania","1999",NA
+"216","Algeria","1999",NA
+"217","American Samoa","1999",NA
+"218","Andorra","1999",NA
+"219","Angola","1999",NA
+"220","Antigua and Barbuda","1999",NA
+"221","Argentina","1999",17.69166
+"222","Armenia","1999",NA
+"223","Aruba","1999",31.28889
+"224","Australia","1999",26.57538
+"225","Austria","1999",51.81163
+"226","Azerbaijan","1999",19.09652
+"227","Bahamas","1999",NA
+"228","Bahrain","1999",NA
+"229","Bangladesh","1999",46.63532
+"230","Barbados","1999",63.869
+"231","Belarus","1999",NA
+"232","Belgium","1999",NA
+"233","Belize","1999",NA
+"234","Benin","1999",NA
+"235","Bermuda","1999",NA
+"236","Bhutan","1999",NA
+"237","Bolivia","1999",44.08737
+"238","Bosnia and Herzegovina","1999",NA
+"239","Botswana","1999",NA
+"240","Brazil","1999",57.2242
+"241","Brunei","1999",NA
+"242","Bulgaria","1999",NA
+"243","Burkina Faso","1999",NA
+"244","Burundi","1999",1036.12811
+"245","Cambodia","1999",NA
+"246","Cameroon","1999",NA
+"247","Canada","1999",NA
+"248","Cape Verde","1999",NA
+"249","Cayman Islands","1999",NA
+"250","Central African Rep.","1999",NA
+"251","Chad","1999",NA
+"252","Channel Islands","1999",NA
+"253","Chile","1999",NA
+"254","China","1999",89.99745
+"255","Colombia","1999",37.71878
+"256","Comoros","1999",NA
+"257","Congo, Dem. Rep.","1999",NA
+"258","Congo, Rep.","1999",NA
+"259","Costa Rica","1999",NA
+"260","Cote d'Ivoire","1999",141.04519
+"261","Croatia","1999",35.82432
+"262","Cuba","1999",77.57571
+"263","Cyprus","1999",47.88273
+"264","Czech Rep.","1999",33.72809
+"265","Denmark","1999",65.86258
+"266","Djibouti","1999",NA
+"267","Dominica","1999",NA
+"268","Dominican Rep.","1999",NA
+"269","Ecuador","1999",NA
+"270","Egypt","1999",NA
+"271","El Salvador","1999",NA
+"272","Equatorial Guinea","1999",NA
+"273","Eritrea","1999",NA
+"274","Estonia","1999",31.81502
+"275","Ethiopia","1999",NA
+"276","Faeroe Islands","1999",NA
+"277","Fiji","1999",NA
+"278","Finland","1999",40.48563
+"279","France","1999",30.66499
+"280","French Polynesia","1999",NA
+"281","Gabon","1999",NA
+"282","Gambia","1999",NA
+"283","Georgia","1999",NA
+"284","Germany","1999",NA
+"285","Ghana","1999",NA
+"286","Gibraltar","1999",NA
+"287","Greece","1999",26.46873
+"288","Greenland","1999",NA
+"289","Grenada","1999",NA
+"290","Guam","1999",NA
+"291","Guatemala","1999",NA
+"292","Guinea","1999",NA
+"293","Guinea-Bissau","1999",NA
+"294","Guyana","1999",NA
+"295","Haiti","1999",NA
+"296","Honduras","1999",NA
+"297","Hong Kong, China","1999",NA
+"298","Hungary","1999",34.08612
+"299","Iceland","1999",39.0372
+"300","India","1999",NA
+"301","Indonesia","1999",NA
+"302","Iran","1999",NA
+"303","Iraq","1999",NA
+"304","Ireland","1999",28.58094
+"305","Isle of Man","1999",NA
+"306","Israel","1999",30.92934
+"307","Italy","1999",27.55704
+"308","Jamaica","1999",NA
+"309","Japan","1999",15.12206
+"310","Jordan","1999",NA
+"311","Kazakhstan","1999",NA
+"312","Kenya","1999",NA
+"313","Kiribati","1999",NA
+"314","Korea, Dem. Rep.","1999",NA
+"315","Korea, Rep.","1999",8.36969
+"316","Kosovo","1999",NA
+"317","Kuwait","1999",NA
+"318","Kyrgyzstan","1999",24.32951
+"319","Laos","1999",67.69951
+"320","Latvia","1999",27.93608
+"321","Lebanon","1999",13.77454
+"322","Lesotho","1999",NA
+"323","Liberia","1999",NA
+"324","Libya","1999",23.44959
+"325","Liechtenstein","1999",NA
+"326","Lithuania","1999",NA
+"327","Luxembourg","1999",NA
+"328","Macao, China","1999",59.55276
+"329","Macedonia, FYR","1999",NA
+"330","Madagascar","1999",NA
+"331","Malawi","1999",2503.91343
+"332","Malaysia","1999",NA
+"333","Maldives","1999",NA
+"334","Mali","1999",256.83575
+"335","Malta","1999",NA
+"336","Marshall Islands","1999",NA
+"337","Mauritania","1999",80.08885
+"338","Mauritius","1999",NA
+"339","Mayotte","1999",NA
+"340","Mexico","1999",48.79119
+"341","Micronesia, Fed. Sts.","1999",NA
+"342","Moldova","1999",NA
+"343","Monaco","1999",NA
+"344","Mongolia","1999",NA
+"345","Montenegro","1999",NA
+"346","Morocco","1999",97.12213
+"347","Mozambique","1999",1408.93451
+"348","Myanmar","1999",NA
+"349","Namibia","1999",157.30356
+"350","Nepal","1999",NA
+"351","Netherlands","1999",47.4251
+"352","New Caledonia","1999",NA
+"353","New Zealand","1999",39.51699
+"354","Nicaragua","1999",NA
+"355","Niger","1999",NA
+"356","Nigeria","1999",NA
+"357","Northern Mariana Islands","1999",NA
+"358","Norway","1999",45.8317
+"359","Oman","1999",NA
+"360","Pakistan","1999",NA
+"361","Palau","1999",NA
+"362","Panama","1999",33.67687
+"363","Papua New Guinea","1999",NA
+"364","Paraguay","1999",NA
+"365","Peru","1999",NA
+"366","Philippines","1999",NA
+"367","Poland","1999",21.105
+"368","Portugal","1999",27.13817
+"369","Puerto Rico","1999",NA
+"370","Qatar","1999",NA
+"371","Romania","1999",NA
+"372","Russia","1999",NA
+"373","Rwanda","1999",NA
+"374","Saint Kitts and Nevis","1999",NA
+"375","Saint Lucia","1999",NA
+"376","Saint Martin","1999",NA
+"377","Saint Vincent and the Grenadines","1999",NA
+"378","Samoa","1999",212.56163
+"379","San Marino","1999",NA
+"380","Sao Tome and Principe","1999",NA
+"381","Saudi Arabia","1999",NA
+"382","Senegal","1999",NA
+"383","Serbia","1999",NA
+"384","Seychelles","1999",NA
+"385","Sierra Leone","1999",NA
+"386","Singapore","1999",NA
+"387","Slovak Republic","1999",32.84855
+"388","Slovenia","1999",NA
+"389","Solomon Islands","1999",NA
+"390","Somalia","1999",NA
+"391","South Africa","1999",NA
+"392","Spain","1999",19.63549
+"393","Sri Lanka","1999",NA
+"394","Sudan","1999",NA
+"395","Suriname","1999",NA
+"396","Swaziland","1999",NA
+"397","Sweden","1999",51.70923
+"398","Switzerland","1999",53.83731
+"399","Syria","1999",NA
+"400","Tajikistan","1999",NA
+"401","Tanzania","1999",NA
+"402","Thailand","1999",NA
+"403","Timor-Leste","1999",NA
+"404","Togo","1999",NA
+"405","Tonga","1999",NA
+"406","Trinidad and Tobago","1999",148.34242
+"407","Tunisia","1999",81.08051
+"408","Turkey","1999",35.31359
+"409","Turkmenistan","1999",NA
+"410","Turks and Caicos Islands","1999",NA
+"411","Tuvalu","1999",NA
+"412","Uganda","1999",NA
+"413","Ukraine","1999",NA
+"414","United Arab Emirates","1999",NA
+"415","United Kingdom","1999",25.60873
+"416","United States","1999",26.76646
+"417","Uruguay","1999",NA
+"418","Uzbekistan","1999",NA
+"419","Vanuatu","1999",117.79128
+"420","Venezuela","1999",NA
+"421","Vietnam","1999",NA
+"422","Virgin Islands (U.S.)","1999",NA
+"423","West Bank and Gaza","1999",NA
+"424","Yemen, Rep.","1999",NA
+"425","Zambia","1999",NA
+"426","Zimbabwe","1999",NA
+"427","Afghanistan","2000",NA
+"428","Albania","2000",NA
+"429","Algeria","2000",NA
+"430","American Samoa","2000",NA
+"431","Andorra","2000",NA
+"432","Angola","2000",NA
+"433","Antigua and Barbuda","2000",NA
+"434","Argentina","2000",17.7225
+"435","Armenia","2000",NA
+"436","Aruba","2000",28.77569
+"437","Australia","2000",25.64508
+"438","Austria","2000",43.92245
+"439","Azerbaijan","2000",15.91147
+"440","Bahamas","2000",NA
+"441","Bahrain","2000",NA
+"442","Bangladesh","2000",42.22325
+"443","Barbados","2000",51.12896
+"444","Belarus","2000",NA
+"445","Belgium","2000",NA
+"446","Belize","2000",NA
+"447","Benin","2000",208.22192
+"448","Bermuda","2000",NA
+"449","Bhutan","2000",427.90761
+"450","Bolivia","2000",47.05885
+"451","Bosnia and Herzegovina","2000",NA
+"452","Botswana","2000",NA
+"453","Brazil","2000",55.57436
+"454","Brunei","2000",NA
+"455","Bulgaria","2000",NA
+"456","Burkina Faso","2000",NA
+"457","Burundi","2000",908.99967
+"458","Cambodia","2000",NA
+"459","Cameroon","2000",NA
+"460","Canada","2000",NA
+"461","Cape Verde","2000",NA
+"462","Cayman Islands","2000",NA
+"463","Central African Rep.","2000",NA
+"464","Chad","2000",NA
+"465","Channel Islands","2000",NA
+"466","Chile","2000",19.37444
+"467","China","2000",NA
+"468","Colombia","2000",29.57417
+"469","Comoros","2000",NA
+"470","Congo, Dem. Rep.","2000",NA
+"471","Congo, Rep.","2000",NA
+"472","Costa Rica","2000",NA
+"473","Cote d'Ivoire","2000",133.66546
+"474","Croatia","2000",42.42285
+"475","Cuba","2000",94.74273
+"476","Cyprus","2000",61.06287
+"477","Czech Rep.","2000",30.49427
+"478","Denmark","2000",70.17713
+"479","Djibouti","2000",NA
+"480","Dominica","2000",NA
+"481","Dominican Rep.","2000",NA
+"482","Ecuador","2000",NA
+"483","Egypt","2000",NA
+"484","El Salvador","2000",8.85712
+"485","Equatorial Guinea","2000",NA
+"486","Eritrea","2000",NA
+"487","Estonia","2000",NA
+"488","Ethiopia","2000",NA
+"489","Faeroe Islands","2000",NA
+"490","Fiji","2000",NA
+"491","Finland","2000",38.41781
+"492","France","2000",30.2206
+"493","French Polynesia","2000",NA
+"494","Gabon","2000",NA
+"495","Gambia","2000",NA
+"496","Georgia","2000",NA
+"497","Germany","2000",NA
+"498","Ghana","2000",NA
+"499","Gibraltar","2000",NA
+"500","Greece","2000",20.9905
+"501","Greenland","2000",NA
+"502","Grenada","2000",NA
+"503","Guam","2000",NA
+"504","Guatemala","2000",NA
+"505","Guinea","2000",NA
+"506","Guinea-Bissau","2000",NA
+"507","Guyana","2000",NA
+"508","Haiti","2000",NA
+"509","Honduras","2000",NA
+"510","Hong Kong, China","2000",NA
+"511","Hungary","2000",34.63929
+"512","Iceland","2000",35.09428
+"513","India","2000",94.96887
+"514","Indonesia","2000",NA
+"515","Iran","2000",NA
+"516","Iraq","2000",NA
+"517","Ireland","2000",30.62078
+"518","Isle of Man","2000",NA
+"519","Israel","2000",29.19421
+"520","Italy","2000",26.62342
+"521","Jamaica","2000",NA
+"522","Japan","2000",17.70273
+"523","Jordan","2000",NA
+"524","Kazakhstan","2000",NA
+"525","Kenya","2000",207.88399
+"526","Kiribati","2000",NA
+"527","Korea, Dem. Rep.","2000",NA
+"528","Korea, Rep.","2000",NA
+"529","Kosovo","2000",NA
+"530","Kuwait","2000",NA
+"531","Kyrgyzstan","2000",15.79621
+"532","Laos","2000",69.48217
+"533","Latvia","2000",22.6559
+"534","Lebanon","2000",9.7289
+"535","Lesotho","2000",939.74065
+"536","Liberia","2000",NA
+"537","Libya","2000",NA
+"538","Liechtenstein","2000",NA
+"539","Lithuania","2000",NA
+"540","Luxembourg","2000",NA
+"541","Macao, China","2000",60.31715
+"542","Macedonia, FYR","2000",NA
+"543","Madagascar","2000",NA
+"544","Malawi","2000",2502.70972
+"545","Malaysia","2000",81.62944
+"546","Maldives","2000",NA
+"547","Mali","2000",NA
+"548","Malta","2000",NA
+"549","Marshall Islands","2000",NA
+"550","Mauritania","2000",NA
+"551","Mauritius","2000",NA
+"552","Mayotte","2000",NA
+"553","Mexico","2000",NA
+"554","Micronesia, Fed. Sts.","2000",NA
+"555","Moldova","2000",NA
+"556","Monaco","2000",NA
+"557","Mongolia","2000",NA
+"558","Montenegro","2000",NA
+"559","Morocco","2000",112.08526
+"560","Mozambique","2000",NA
+"561","Myanmar","2000",NA
+"562","Namibia","2000",NA
+"563","Nepal","2000",141.33401
+"564","Netherlands","2000",45.37043
+"565","New Caledonia","2000",NA
+"566","New Zealand","2000",NA
+"567","Nicaragua","2000",NA
+"568","Niger","2000",NA
+"569","Nigeria","2000",NA
+"570","Northern Mariana Islands","2000",NA
+"571","Norway","2000",39.31713
+"572","Oman","2000",NA
+"573","Pakistan","2000",NA
+"574","Palau","2000",NA
+"575","Panama","2000",31.86636
+"576","Papua New Guinea","2000",NA
+"577","Paraguay","2000",58.87077
+"578","Peru","2000",NA
+"579","Philippines","2000",14.35165
+"580","Poland","2000",17.6453
+"581","Portugal","2000",25.89706
+"582","Puerto Rico","2000",NA
+"583","Qatar","2000",NA
+"584","Romania","2000",NA
+"585","Russia","2000",10.94678
+"586","Rwanda","2000",1228.14349
+"587","Saint Kitts and Nevis","2000",NA
+"588","Saint Lucia","2000",NA
+"589","Saint Martin","2000",NA
+"590","Saint Vincent and the Grenadines","2000",NA
+"591","Samoa","2000",137.02419
+"592","San Marino","2000",NA
+"593","Sao Tome and Principe","2000",NA
+"594","Saudi Arabia","2000",NA
+"595","Senegal","2000",NA
+"596","Serbia","2000",NA
+"597","Seychelles","2000",NA
+"598","Sierra Leone","2000",NA
+"599","Singapore","2000",NA
+"600","Slovak Republic","2000",28.58929
+"601","Slovenia","2000",NA
+"602","Solomon Islands","2000",NA
+"603","Somalia","2000",NA
+"604","South Africa","2000",NA
+"605","Spain","2000",20.54092
+"606","Sri Lanka","2000",NA
+"607","Sudan","2000",NA
+"608","Suriname","2000",NA
+"609","Swaziland","2000",434.88128
+"610","Sweden","2000",49.79654
+"611","Switzerland","2000",53.13503
+"612","Syria","2000",NA
+"613","Tajikistan","2000",NA
+"614","Tanzania","2000",NA
+"615","Thailand","2000",36.50882
+"616","Timor-Leste","2000",NA
+"617","Togo","2000",NA
+"618","Tonga","2000",NA
+"619","Trinidad and Tobago","2000",NA
+"620","Tunisia","2000",71.3386
+"621","Turkey","2000",32.0699
+"622","Turkmenistan","2000",NA
+"623","Turks and Caicos Islands","2000",NA
+"624","Tuvalu","2000",NA
+"625","Uganda","2000",NA
+"626","Ukraine","2000",36.48026
+"627","United Arab Emirates","2000",26.23147
+"628","United Kingdom","2000",22.9532
+"629","United States","2000",NA
+"630","Uruguay","2000",NA
+"631","Uzbekistan","2000",NA
+"632","Vanuatu","2000",145.93231
+"633","Venezuela","2000",NA
+"634","Vietnam","2000",NA
+"635","Virgin Islands (U.S.)","2000",NA
+"636","West Bank and Gaza","2000",NA
+"637","Yemen, Rep.","2000",NA
+"638","Zambia","2000",160.37991
+"639","Zimbabwe","2000",NA
+"640","Afghanistan","2001",NA
+"641","Albania","2001",NA
+"642","Algeria","2001",NA
+"643","American Samoa","2001",NA
+"644","Andorra","2001",NA
+"645","Angola","2001",NA
+"646","Antigua and Barbuda","2001",NA
+"647","Argentina","2001",16.09972
+"648","Armenia","2001",NA
+"649","Aruba","2001",33.07156
+"650","Australia","2001",25.69447
+"651","Austria","2001",41.23967
+"652","Azerbaijan","2001",14.15449
+"653","Bahamas","2001",NA
+"654","Bahrain","2001",NA
+"655","Bangladesh","2001",36.6649
+"656","Barbados","2001",70.54363
+"657","Belarus","2001",NA
+"658","Belgium","2001",38.18731
+"659","Belize","2001",NA
+"660","Benin","2001",160.19973
+"661","Bermuda","2001",NA
+"662","Bhutan","2001",NA
+"663","Bolivia","2001",43.97691
+"664","Bosnia and Herzegovina","2001",NA
+"665","Botswana","2001",NA
+"666","Brazil","2001",47.46028
+"667","Brunei","2001",NA
+"668","Bulgaria","2001",17.56715
+"669","Burkina Faso","2001",NA
+"670","Burundi","2001",1103.07696
+"671","Cambodia","2001",42.49602
+"672","Cameroon","2001",NA
+"673","Canada","2001",NA
+"674","Cape Verde","2001",NA
+"675","Cayman Islands","2001",NA
+"676","Central African Rep.","2001",NA
+"677","Chad","2001",NA
+"678","Channel Islands","2001",NA
+"679","Chile","2001",NA
+"680","China","2001",NA
+"681","Colombia","2001",30.32232
+"682","Comoros","2001",NA
+"683","Congo, Dem. Rep.","2001",NA
+"684","Congo, Rep.","2001",NA
+"685","Costa Rica","2001",NA
+"686","Cote d'Ivoire","2001",NA
+"687","Croatia","2001",NA
+"688","Cuba","2001",89.4638
+"689","Cyprus","2001",41.4412
+"690","Czech Rep.","2001",31.11582
+"691","Denmark","2001",75.50915
+"692","Djibouti","2001",NA
+"693","Dominica","2001",NA
+"694","Dominican Rep.","2001",NA
+"695","Ecuador","2001",NA
+"696","Egypt","2001",NA
+"697","El Salvador","2001",NA
+"698","Equatorial Guinea","2001",NA
+"699","Eritrea","2001",430.82275
+"700","Estonia","2001",24.20014
+"701","Ethiopia","2001",NA
+"702","Faeroe Islands","2001",NA
+"703","Fiji","2001",NA
+"704","Finland","2001",37.06313
+"705","France","2001",29.73394
+"706","French Polynesia","2001",NA
+"707","Gabon","2001",NA
+"708","Gambia","2001",NA
+"709","Georgia","2001",NA
+"710","Germany","2001",NA
+"711","Ghana","2001",NA
+"712","Gibraltar","2001",NA
+"713","Greece","2001",24.67004
+"714","Greenland","2001",NA
+"715","Grenada","2001",NA
+"716","Guam","2001",NA
+"717","Guatemala","2001",NA
+"718","Guinea","2001",NA
+"719","Guinea-Bissau","2001",NA
+"720","Guyana","2001",NA
+"721","Haiti","2001",NA
+"722","Honduras","2001",NA
+"723","Hong Kong, China","2001",NA
+"724","Hungary","2001",32.69217
+"725","Iceland","2001",34.8194
+"726","India","2001",NA
+"727","Indonesia","2001",NA
+"728","Iran","2001",35.53519
+"729","Iraq","2001",NA
+"730","Ireland","2001",28.23814
+"731","Isle of Man","2001",NA
+"732","Israel","2001",28.75497
+"733","Italy","2001",24.97742
+"734","Jamaica","2001",70.36765
+"735","Japan","2001",17.41558
+"736","Jordan","2001",NA
+"737","Kazakhstan","2001",NA
+"738","Kenya","2001",225.02829
+"739","Kiribati","2001",NA
+"740","Korea, Dem. Rep.","2001",NA
+"741","Korea, Rep.","2001",NA
+"742","Kosovo","2001",NA
+"743","Kuwait","2001",NA
+"744","Kyrgyzstan","2001",17.25951
+"745","Laos","2001",110.12857
+"746","Latvia","2001",19.65403
+"747","Lebanon","2001",NA
+"748","Lesotho","2001",912.29988
+"749","Liberia","2001",NA
+"750","Libya","2001",NA
+"751","Liechtenstein","2001",NA
+"752","Lithuania","2001",34.18288
+"753","Luxembourg","2001",NA
+"754","Macao, China","2001",NA
+"755","Macedonia, FYR","2001",NA
+"756","Madagascar","2001",NA
+"757","Malawi","2001",1870.35846
+"758","Malaysia","2001",110.27001
+"759","Maldives","2001",NA
+"760","Mali","2001",NA
+"761","Malta","2001",NA
+"762","Marshall Islands","2001",NA
+"763","Mauritania","2001",NA
+"764","Mauritius","2001",25.42477
+"765","Mayotte","2001",NA
+"766","Mexico","2001",37.01506
+"767","Micronesia, Fed. Sts.","2001",NA
+"768","Moldova","2001",NA
+"769","Monaco","2001",NA
+"770","Mongolia","2001",NA
+"771","Montenegro","2001",NA
+"772","Morocco","2001",95.14751
+"773","Mozambique","2001",NA
+"774","Myanmar","2001",26.96266
+"775","Namibia","2001",NA
+"776","Nepal","2001",104.6069
+"777","Netherlands","2001",43.20144
+"778","New Caledonia","2001",NA
+"779","New Zealand","2001",35.84284
+"780","Nicaragua","2001",NA
+"781","Niger","2001",NA
+"782","Nigeria","2001",NA
+"783","Northern Mariana Islands","2001",NA
+"784","Norway","2001",43.6326
+"785","Oman","2001",NA
+"786","Pakistan","2001",NA
+"787","Palau","2001",80.99991
+"788","Panama","2001",29.39634
+"789","Papua New Guinea","2001",NA
+"790","Paraguay","2001",48.7182
+"791","Peru","2001",21.05331
+"792","Philippines","2001",13.30452
+"793","Poland","2001",18.03366
+"794","Portugal","2001",26.38255
+"795","Puerto Rico","2001",NA
+"796","Qatar","2001",NA
+"797","Romania","2001",32.59451
+"798","Russia","2001",10.94642
+"799","Rwanda","2001",NA
+"800","Saint Kitts and Nevis","2001",NA
+"801","Saint Lucia","2001",NA
+"802","Saint Martin","2001",NA
+"803","Saint Vincent and the Grenadines","2001",NA
+"804","Samoa","2001",213.07418
+"805","San Marino","2001",NA
+"806","Sao Tome and Principe","2001",NA
+"807","Saudi Arabia","2001",NA
+"808","Senegal","2001",NA
+"809","Serbia","2001",NA
+"810","Seychelles","2001",NA
+"811","Sierra Leone","2001",NA
+"812","Singapore","2001",NA
+"813","Slovak Republic","2001",30.63097
+"814","Slovenia","2001",27.77578
+"815","Solomon Islands","2001",NA
+"816","Somalia","2001",NA
+"817","South Africa","2001",NA
+"818","Spain","2001",21.4437
+"819","Sri Lanka","2001",NA
+"820","Sudan","2001",NA
+"821","Suriname","2001",NA
+"822","Swaziland","2001",279.18295
+"823","Sweden","2001",49.12967
+"824","Switzerland","2001",55.42901
+"825","Syria","2001",NA
+"826","Tajikistan","2001",NA
+"827","Tanzania","2001",NA
+"828","Thailand","2001",33.17186
+"829","Timor-Leste","2001",NA
+"830","Togo","2001",NA
+"831","Tonga","2001",NA
+"832","Trinidad and Tobago","2001",81.12562
+"833","Tunisia","2001",63.7915
+"834","Turkey","2001",35.02406
+"835","Turkmenistan","2001",NA
+"836","Turks and Caicos Islands","2001",NA
+"837","Tuvalu","2001",NA
+"838","Uganda","2001",NA
+"839","Ukraine","2001",37.23602
+"840","United Arab Emirates","2001",21.69915
+"841","United Kingdom","2001",22.69473
+"842","United States","2001",30.95055
+"843","Uruguay","2001",NA
+"844","Uzbekistan","2001",NA
+"845","Vanuatu","2001",263.02956
+"846","Venezuela","2001",NA
+"847","Vietnam","2001",NA
+"848","Virgin Islands (U.S.)","2001",NA
+"849","West Bank and Gaza","2001",NA
+"850","Yemen, Rep.","2001",NA
+"851","Zambia","2001",NA
+"852","Zimbabwe","2001",NA
+"853","Afghanistan","2002",NA
+"854","Albania","2002",36.58375
+"855","Algeria","2002",NA
+"856","American Samoa","2002",NA
+"857","Andorra","2002",35.6186
+"858","Angola","2002",NA
+"859","Antigua and Barbuda","2002",NA
+"860","Argentina","2002",13.0572
+"861","Armenia","2002",NA
+"862","Aruba","2002",35.18622
+"863","Australia","2002",22.59796
+"864","Austria","2002",46.3006
+"865","Azerbaijan","2002",12.35162
+"866","Bahamas","2002",NA
+"867","Bahrain","2002",NA
+"868","Bangladesh","2002",39.82647
+"869","Barbados","2002",NA
+"870","Belarus","2002",NA
+"871","Belgium","2002",37.2642
+"872","Belize","2002",NA
+"873","Benin","2002",140.71092
+"874","Bermuda","2002",NA
+"875","Bhutan","2002",NA
+"876","Bolivia","2002",43.45572
+"877","Bosnia and Herzegovina","2002",NA
+"878","Botswana","2002",NA
+"879","Brazil","2002",44.60889
+"880","Brunei","2002",NA
+"881","Bulgaria","2002",18.19652
+"882","Burkina Faso","2002",NA
+"883","Burundi","2002",621.37194
+"884","Cambodia","2002",NA
+"885","Cameroon","2002",NA
+"886","Canada","2002",NA
+"887","Cape Verde","2002",347.71834
+"888","Cayman Islands","2002",NA
+"889","Central African Rep.","2002",NA
+"890","Chad","2002",NA
+"891","Channel Islands","2002",NA
+"892","Chile","2002",17.9601
+"893","China","2002",NA
+"894","Colombia","2002",23.4219
+"895","Comoros","2002",NA
+"896","Congo, Dem. Rep.","2002",NA
+"897","Congo, Rep.","2002",220.91427
+"898","Costa Rica","2002",NA
+"899","Cote d'Ivoire","2002",NA
+"900","Croatia","2002",29.17582
+"901","Cuba","2002",98.08367
+"902","Cyprus","2002",44.44746
+"903","Czech Rep.","2002",31.00637
+"904","Denmark","2002",73.91044
+"905","Djibouti","2002",NA
+"906","Dominica","2002",NA
+"907","Dominican Rep.","2002",NA
+"908","Ecuador","2002",NA
+"909","Egypt","2002",NA
+"910","El Salvador","2002",10.93674
+"911","Equatorial Guinea","2002",NA
+"912","Eritrea","2002",408.79455
+"913","Estonia","2002",24.1378
+"914","Ethiopia","2002",NA
+"915","Faeroe Islands","2002",NA
+"916","Fiji","2002",NA
+"917","Finland","2002",37.01142
+"918","France","2002",30.04961
+"919","French Polynesia","2002",NA
+"920","Gabon","2002",NA
+"921","Gambia","2002",NA
+"922","Georgia","2002",NA
+"923","Germany","2002",NA
+"924","Ghana","2002",NA
+"925","Gibraltar","2002",NA
+"926","Greece","2002",24.27917
+"927","Greenland","2002",NA
+"928","Grenada","2002",NA
+"929","Guam","2002",NA
+"930","Guatemala","2002",NA
+"931","Guinea","2002",NA
+"932","Guinea-Bissau","2002",NA
+"933","Guyana","2002",NA
+"934","Haiti","2002",NA
+"935","Honduras","2002",NA
+"936","Hong Kong, China","2002",NA
+"937","Hungary","2002",31.97806
+"938","Iceland","2002",34.29719
+"939","India","2002",NA
+"940","Indonesia","2002",NA
+"941","Iran","2002",38.51554
+"942","Iraq","2002",NA
+"943","Ireland","2002",26.37471
+"944","Isle of Man","2002",NA
+"945","Israel","2002",25.39175
+"946","Italy","2002",26.35096
+"947","Jamaica","2002",59.67162
+"948","Japan","2002",17.37313
+"949","Jordan","2002",NA
+"950","Kazakhstan","2002",11.35657
+"951","Kenya","2002",NA
+"952","Kiribati","2002",NA
+"953","Korea, Dem. Rep.","2002",NA
+"954","Korea, Rep.","2002",4.79904
+"955","Kosovo","2002",NA
+"956","Kuwait","2002",119.05512
+"957","Kyrgyzstan","2002",20.81173
+"958","Laos","2002",81.87432
+"959","Latvia","2002",18.73942
+"960","Lebanon","2002",19.6589
+"961","Lesotho","2002",NA
+"962","Liberia","2002",NA
+"963","Libya","2002",NA
+"964","Liechtenstein","2002",NA
+"965","Lithuania","2002",32.6997
+"966","Luxembourg","2002",NA
+"967","Macao, China","2002",26.55653
+"968","Macedonia, FYR","2002",23.74772
+"969","Madagascar","2002",NA
+"970","Malawi","2002",NA
+"971","Malaysia","2002",98.86808
+"972","Maldives","2002",NA
+"973","Mali","2002",NA
+"974","Malta","2002",49.12745
+"975","Marshall Islands","2002",73.49791
+"976","Mauritania","2002",NA
+"977","Mauritius","2002",34.45308
+"978","Mayotte","2002",NA
+"979","Mexico","2002",49.69047
+"980","Micronesia, Fed. Sts.","2002",NA
+"981","Moldova","2002",NA
+"982","Monaco","2002",NA
+"983","Mongolia","2002",30.36211
+"984","Montenegro","2002",NA
+"985","Morocco","2002",89.19988
+"986","Mozambique","2002",NA
+"987","Myanmar","2002",NA
+"988","Namibia","2002",85.03387
+"989","Nepal","2002",79.4469
+"990","Netherlands","2002",41.79188
+"991","New Caledonia","2002",NA
+"992","New Zealand","2002",35.8745
+"993","Nicaragua","2002",NA
+"994","Niger","2002",NA
+"995","Nigeria","2002",NA
+"996","Northern Mariana Islands","2002",NA
+"997","Norway","2002",47.98553
+"998","Oman","2002",27.60818
+"999","Pakistan","2002",NA
+"1000","Palau","2002",NA
+"1001","Panama","2002",32.58234
+"1002","Papua New Guinea","2002",NA
+"1003","Paraguay","2002",30.31242
+"1004","Peru","2002",13.8791
+"1005","Philippines","2002",13.98384
+"1006","Poland","2002",21.11352
+"1007","Portugal","2002",24.09343
+"1008","Puerto Rico","2002",NA
+"1009","Qatar","2002",NA
+"1010","Romania","2002",26.2411
+"1011","Russia","2002",11.91317
+"1012","Rwanda","2002",NA
+"1013","Saint Kitts and Nevis","2002",NA
+"1014","Saint Lucia","2002",NA
+"1015","Saint Martin","2002",NA
+"1016","Saint Vincent and the Grenadines","2002",NA
+"1017","Samoa","2002",NA
+"1018","San Marino","2002",NA
+"1019","Sao Tome and Principe","2002",NA
+"1020","Saudi Arabia","2002",NA
+"1021","Senegal","2002",NA
+"1022","Serbia","2002",NA
+"1023","Seychelles","2002",NA
+"1024","Sierra Leone","2002",NA
+"1025","Singapore","2002",NA
+"1026","Slovak Republic","2002",30.68179
+"1027","Slovenia","2002",25.53064
+"1028","Solomon Islands","2002",NA
+"1029","Somalia","2002",NA
+"1030","South Africa","2002",NA
+"1031","Spain","2002",21.88321
+"1032","Sri Lanka","2002",NA
+"1033","Sudan","2002",NA
+"1034","Suriname","2002",NA
+"1035","Swaziland","2002",257.28147
+"1036","Sweden","2002",48.60407
+"1037","Switzerland","2002",59.65022
+"1038","Syria","2002",NA
+"1039","Tajikistan","2002",24.69512
+"1040","Tanzania","2002",NA
+"1041","Thailand","2002",NA
+"1042","Timor-Leste","2002",NA
+"1043","Togo","2002",NA
+"1044","Tonga","2002",NA
+"1045","Trinidad and Tobago","2002",NA
+"1046","Tunisia","2002",57.06855
+"1047","Turkey","2002",37.12772
+"1048","Turkmenistan","2002",NA
+"1049","Turks and Caicos Islands","2002",NA
+"1050","Tuvalu","2002",NA
+"1051","Uganda","2002",NA
+"1052","Ukraine","2002",41.66947
+"1053","United Arab Emirates","2002",17.67264
+"1054","United Kingdom","2002",28.16263
+"1055","United States","2002",25.29195
+"1056","Uruguay","2002",NA
+"1057","Uzbekistan","2002",NA
+"1058","Vanuatu","2002",NA
+"1059","Venezuela","2002",NA
+"1060","Vietnam","2002",NA
+"1061","Virgin Islands (U.S.)","2002",NA
+"1062","West Bank and Gaza","2002",NA
+"1063","Yemen, Rep.","2002",NA
+"1064","Zambia","2002",NA
+"1065","Zimbabwe","2002",NA
+"1066","Afghanistan","2003",NA
+"1067","Albania","2003",NA
+"1068","Algeria","2003",NA
+"1069","American Samoa","2003",NA
+"1070","Andorra","2003",27.20446
+"1071","Angola","2003",NA
+"1072","Antigua and Barbuda","2003",NA
+"1073","Argentina","2003",10.34781
+"1074","Armenia","2003",NA
+"1075","Aruba","2003",NA
+"1076","Australia","2003",22.75422
+"1077","Austria","2003",45.90786
+"1078","Azerbaijan","2003",12.46054
+"1079","Bahamas","2003",NA
+"1080","Bahrain","2003",NA
+"1081","Bangladesh","2003",33.19006
+"1082","Barbados","2003",NA
+"1083","Belarus","2003",NA
+"1084","Belgium","2003",36.19783
+"1085","Belize","2003",NA
+"1086","Benin","2003",128.29446
+"1087","Bermuda","2003",0
+"1088","Bhutan","2003",NA
+"1089","Bolivia","2003",35.96869
+"1090","Bosnia and Herzegovina","2003",NA
+"1091","Botswana","2003",NA
+"1092","Brazil","2003",NA
+"1093","Brunei","2003",NA
+"1094","Bulgaria","2003",27.34377
+"1095","Burkina Faso","2003",NA
+"1096","Burundi","2003",563.77069
+"1097","Cambodia","2003",NA
+"1098","Cameroon","2003",NA
+"1099","Canada","2003",NA
+"1100","Cape Verde","2003",215.59844
+"1101","Cayman Islands","2003",NA
+"1102","Central African Rep.","2003",NA
+"1103","Chad","2003",NA
+"1104","Channel Islands","2003",NA
+"1105","Chile","2003",14.99674
+"1106","China","2003",NA
+"1107","Colombia","2003",NA
+"1108","Comoros","2003",NA
+"1109","Congo, Dem. Rep.","2003",NA
+"1110","Congo, Rep.","2003",NA
+"1111","Costa Rica","2003",NA
+"1112","Cote d'Ivoire","2003",NA
+"1113","Croatia","2003",26.55998
+"1114","Cuba","2003",93.80405
+"1115","Cyprus","2003",61.27124
+"1116","Czech Rep.","2003",33.29651
+"1117","Denmark","2003",66.72786
+"1118","Djibouti","2003",NA
+"1119","Dominica","2003",NA
+"1120","Dominican Rep.","2003",NA
+"1121","Ecuador","2003",NA
+"1122","Egypt","2003",NA
+"1123","El Salvador","2003",10.97068
+"1124","Equatorial Guinea","2003",NA
+"1125","Eritrea","2003",617.32956
+"1126","Estonia","2003",21.67555
+"1127","Ethiopia","2003",NA
+"1128","Faeroe Islands","2003",NA
+"1129","Fiji","2003",NA
+"1130","Finland","2003",36.81785
+"1131","France","2003",35.03144
+"1132","French Polynesia","2003",NA
+"1133","Gabon","2003",NA
+"1134","Gambia","2003",NA
+"1135","Georgia","2003",NA
+"1136","Germany","2003",NA
+"1137","Ghana","2003",NA
+"1138","Gibraltar","2003",NA
+"1139","Greece","2003",21.80617
+"1140","Greenland","2003",NA
+"1141","Grenada","2003",NA
+"1142","Guam","2003",NA
+"1143","Guatemala","2003",NA
+"1144","Guinea","2003",NA
+"1145","Guinea-Bissau","2003",NA
+"1146","Guyana","2003",NA
+"1147","Haiti","2003",NA
+"1148","Honduras","2003",NA
+"1149","Hong Kong, China","2003",65.0376
+"1150","Hungary","2003",31.74273
+"1151","Iceland","2003",30.43081
+"1152","India","2003",68.43195
+"1153","Indonesia","2003",NA
+"1154","Iran","2003",32.27428
+"1155","Iraq","2003",NA
+"1156","Ireland","2003",23.91898
+"1157","Isle of Man","2003",NA
+"1158","Israel","2003",27.79721
+"1159","Italy","2003",23.44873
+"1160","Jamaica","2003",36.16849
+"1161","Japan","2003",19.88015
+"1162","Jordan","2003",NA
+"1163","Kazakhstan","2003",NA
+"1164","Kenya","2003",NA
+"1165","Kiribati","2003",NA
+"1166","Korea, Dem. Rep.","2003",NA
+"1167","Korea, Rep.","2003",8.82085
+"1168","Kosovo","2003",NA
+"1169","Kuwait","2003",128.10074
+"1170","Kyrgyzstan","2003",22.32119
+"1171","Laos","2003",NA
+"1172","Latvia","2003",14.43433
+"1173","Lebanon","2003",18.98642
+"1174","Lesotho","2003",NA
+"1175","Liberia","2003",NA
+"1176","Libya","2003",NA
+"1177","Liechtenstein","2003",24.46793
+"1178","Lithuania","2003",20.51732
+"1179","Luxembourg","2003",NA
+"1180","Macao, China","2003",20.87378
+"1181","Macedonia, FYR","2003",NA
+"1182","Madagascar","2003",141.21406
+"1183","Malawi","2003",NA
+"1184","Malaysia","2003",90.62672
+"1185","Maldives","2003",NA
+"1186","Mali","2003",NA
+"1187","Malta","2003",NA
+"1188","Marshall Islands","2003",NA
+"1189","Mauritania","2003",NA
+"1190","Mauritius","2003",47.32713
+"1191","Mayotte","2003",NA
+"1192","Mexico","2003",41.36895
+"1193","Micronesia, Fed. Sts.","2003",NA
+"1194","Moldova","2003",NA
+"1195","Monaco","2003",NA
+"1196","Mongolia","2003",NA
+"1197","Montenegro","2003",NA
+"1198","Morocco","2003",79.92925
+"1199","Mozambique","2003",NA
+"1200","Myanmar","2003",NA
+"1201","Namibia","2003",99.64111
+"1202","Nepal","2003",65.57502
+"1203","Netherlands","2003",43.71054
+"1204","New Caledonia","2003",NA
+"1205","New Zealand","2003",32.90457
+"1206","Nicaragua","2003",NA
+"1207","Niger","2003",NA
+"1208","Nigeria","2003",NA
+"1209","Northern Mariana Islands","2003",NA
+"1210","Norway","2003",49.24753
+"1211","Oman","2003",NA
+"1212","Pakistan","2003",NA
+"1213","Palau","2003",NA
+"1214","Panama","2003",NA
+"1215","Papua New Guinea","2003",NA
+"1216","Paraguay","2003",31.63174
+"1217","Peru","2003",11.94427
+"1218","Philippines","2003",13.65037
+"1219","Poland","2003",19.72595
+"1220","Portugal","2003",25.34529
+"1221","Puerto Rico","2003",NA
+"1222","Qatar","2003",NA
+"1223","Romania","2003",22.91733
+"1224","Russia","2003",12.12651
+"1225","Rwanda","2003",NA
+"1226","Saint Kitts and Nevis","2003",NA
+"1227","Saint Lucia","2003",NA
+"1228","Saint Martin","2003",NA
+"1229","Saint Vincent and the Grenadines","2003",NA
+"1230","Samoa","2003",NA
+"1231","San Marino","2003",NA
+"1232","Sao Tome and Principe","2003",NA
+"1233","Saudi Arabia","2003",NA
+"1234","Senegal","2003",NA
+"1235","Serbia","2003",NA
+"1236","Seychelles","2003",NA
+"1237","Sierra Leone","2003",NA
+"1238","Singapore","2003",NA
+"1239","Slovak Republic","2003",28.76016
+"1240","Slovenia","2003",25.4645
+"1241","Solomon Islands","2003",NA
+"1242","Somalia","2003",NA
+"1243","South Africa","2003",NA
+"1244","Spain","2003",22.66006
+"1245","Sri Lanka","2003",NA
+"1246","Sudan","2003",NA
+"1247","Suriname","2003",NA
+"1248","Swaziland","2003",362.07577
+"1249","Sweden","2003",44.98509
+"1250","Switzerland","2003",64.10573
+"1251","Syria","2003",NA
+"1252","Tajikistan","2003",12.25793
+"1253","Tanzania","2003",NA
+"1254","Thailand","2003",NA
+"1255","Timor-Leste","2003",NA
+"1256","Togo","2003",NA
+"1257","Tonga","2003",NA
+"1258","Trinidad and Tobago","2003",NA
+"1259","Tunisia","2003",62.1668
+"1260","Turkey","2003",33.20972
+"1261","Turkmenistan","2003",NA
+"1262","Turks and Caicos Islands","2003",NA
+"1263","Tuvalu","2003",NA
+"1264","Uganda","2003",NA
+"1265","Ukraine","2003",36.04503
+"1266","United Arab Emirates","2003",17.32691
+"1267","United Kingdom","2003",27.25315
+"1268","United States","2003",26.23233
+"1269","Uruguay","2003",NA
+"1270","Uzbekistan","2003",NA
+"1271","Vanuatu","2003",NA
+"1272","Venezuela","2003",NA
+"1273","Vietnam","2003",NA
+"1274","Virgin Islands (U.S.)","2003",NA
+"1275","West Bank and Gaza","2003",NA
+"1276","Yemen, Rep.","2003",NA
+"1277","Zambia","2003",NA
+"1278","Zimbabwe","2003",NA
+"1279","Afghanistan","2004",NA
+"1280","Albania","2004",NA
+"1281","Algeria","2004",NA
+"1282","American Samoa","2004",NA
+"1283","Andorra","2004",21.73818
+"1284","Angola","2004",NA
+"1285","Antigua and Barbuda","2004",NA
+"1286","Argentina","2004",11.77389
+"1287","Armenia","2004",NA
+"1288","Aruba","2004",NA
+"1289","Australia","2004",23.27805
+"1290","Austria","2004",49.0146
+"1291","Azerbaijan","2004",14.96684
+"1292","Bahamas","2004",NA
+"1293","Bahrain","2004",NA
+"1294","Bangladesh","2004",43.12989
+"1295","Barbados","2004",NA
+"1296","Belarus","2004",27.29755
+"1297","Belgium","2004",34.73538
+"1298","Belize","2004",36.2389
+"1299","Benin","2004",136.8309
+"1300","Bermuda","2004",0
+"1301","Bhutan","2004",NA
+"1302","Bolivia","2004",NA
+"1303","Bosnia and Herzegovina","2004",NA
+"1304","Botswana","2004",NA
+"1305","Brazil","2004",32.61409
+"1306","Brunei","2004",NA
+"1307","Bulgaria","2004",17.38981
+"1308","Burkina Faso","2004",NA
+"1309","Burundi","2004",422.69041
+"1310","Cambodia","2004",NA
+"1311","Cameroon","2004",70.59367
+"1312","Canada","2004",NA
+"1313","Cape Verde","2004",114.8984
+"1314","Cayman Islands","2004",NA
+"1315","Central African Rep.","2004",NA
+"1316","Chad","2004",263.3015
+"1317","Channel Islands","2004",NA
+"1318","Chile","2004",15.40984
+"1319","China","2004",NA
+"1320","Colombia","2004",20.68254
+"1321","Comoros","2004",NA
+"1322","Congo, Dem. Rep.","2004",NA
+"1323","Congo, Rep.","2004",NA
+"1324","Costa Rica","2004",35.78921
+"1325","Cote d'Ivoire","2004",NA
+"1326","Croatia","2004",NA
+"1327","Cuba","2004",63.3628
+"1328","Cyprus","2004",52.33893
+"1329","Czech Rep.","2004",30.09465
+"1330","Denmark","2004",62.54542
+"1331","Djibouti","2004",NA
+"1332","Dominica","2004",NA
+"1333","Dominican Rep.","2004",NA
+"1334","Ecuador","2004",NA
+"1335","Egypt","2004",NA
+"1336","El Salvador","2004",NA
+"1337","Equatorial Guinea","2004",NA
+"1338","Eritrea","2004",940.49337
+"1339","Estonia","2004",17.58431
+"1340","Ethiopia","2004",NA
+"1341","Faeroe Islands","2004",NA
+"1342","Fiji","2004",62.76775
+"1343","Finland","2004",36.04171
+"1344","France","2004",35.17949
+"1345","French Polynesia","2004",NA
+"1346","Gabon","2004",NA
+"1347","Gambia","2004",235.26621
+"1348","Georgia","2004",NA
+"1349","Germany","2004",NA
+"1350","Ghana","2004",NA
+"1351","Gibraltar","2004",NA
+"1352","Greece","2004",24.83922
+"1353","Greenland","2004",NA
+"1354","Grenada","2004",NA
+"1355","Guam","2004",NA
+"1356","Guatemala","2004",NA
+"1357","Guinea","2004",294.10586
+"1358","Guinea-Bissau","2004",NA
+"1359","Guyana","2004",36.76202
+"1360","Haiti","2004",NA
+"1361","Honduras","2004",NA
+"1362","Hong Kong, China","2004",67.71987
+"1363","Hungary","2004",24.37151
+"1364","Iceland","2004",27.5045
+"1365","India","2004",61.07813
+"1366","Indonesia","2004",NA
+"1367","Iran","2004",26.54583
+"1368","Iraq","2004",NA
+"1369","Ireland","2004",23.78542
+"1370","Isle of Man","2004",NA
+"1371","Israel","2004",23.63361
+"1372","Italy","2004",22.67387
+"1373","Jamaica","2004",NA
+"1374","Japan","2004",20.80486
+"1375","Jordan","2004",NA
+"1376","Kazakhstan","2004",5.96071
+"1377","Kenya","2004",273.62703
+"1378","Kiribati","2004",NA
+"1379","Korea, Dem. Rep.","2004",NA
+"1380","Korea, Rep.","2004",8.41992
+"1381","Kosovo","2004",NA
+"1382","Kuwait","2004",111.07691
+"1383","Kyrgyzstan","2004",22.73254
+"1384","Laos","2004",NA
+"1385","Latvia","2004",12.35547
+"1386","Lebanon","2004",16.61339
+"1387","Lesotho","2004",NA
+"1388","Liberia","2004",NA
+"1389","Libya","2004",NA
+"1390","Liechtenstein","2004",21.82757
+"1391","Lithuania","2004",19.99367
+"1392","Luxembourg","2004",NA
+"1393","Macao, China","2004",19.66004
+"1394","Macedonia, FYR","2004",NA
+"1395","Madagascar","2004",138.60561
+"1396","Malawi","2004",NA
+"1397","Malaysia","2004",69.3515
+"1398","Maldives","2004",NA
+"1399","Mali","2004",NA
+"1400","Malta","2004",27.10228
+"1401","Marshall Islands","2004",NA
+"1402","Mauritania","2004",NA
+"1403","Mauritius","2004",43.3808
+"1404","Mayotte","2004",NA
+"1405","Mexico","2004",38.32934
+"1406","Micronesia, Fed. Sts.","2004",NA
+"1407","Moldova","2004",NA
+"1408","Monaco","2004",NA
+"1409","Mongolia","2004",18.43797
+"1410","Montenegro","2004",NA
+"1411","Morocco","2004",75.34932
+"1412","Mozambique","2004",NA
+"1413","Myanmar","2004",NA
+"1414","Namibia","2004",NA
+"1415","Nepal","2004",NA
+"1416","Netherlands","2004",43.46676
+"1417","New Caledonia","2004",NA
+"1418","New Zealand","2004",26.71765
+"1419","Nicaragua","2004",NA
+"1420","Niger","2004",NA
+"1421","Nigeria","2004",NA
+"1422","Northern Mariana Islands","2004",NA
+"1423","Norway","2004",51.4504
+"1424","Oman","2004",21.52413
+"1425","Pakistan","2004",NA
+"1426","Palau","2004",NA
+"1427","Panama","2004",26.59234
+"1428","Papua New Guinea","2004",NA
+"1429","Paraguay","2004",24.55087
+"1430","Peru","2004",11.95583
+"1431","Philippines","2004",12.06573
+"1432","Poland","2004",21.43321
+"1433","Portugal","2004",22.61341
+"1434","Puerto Rico","2004",NA
+"1435","Qatar","2004",NA
+"1436","Romania","2004",22.13675
+"1437","Russia","2004",10.85492
+"1438","Rwanda","2004",NA
+"1439","Saint Kitts and Nevis","2004",NA
+"1440","Saint Lucia","2004",0
+"1441","Saint Martin","2004",NA
+"1442","Saint Vincent and the Grenadines","2004",NA
+"1443","Samoa","2004",NA
+"1444","San Marino","2004",NA
+"1445","Sao Tome and Principe","2004",NA
+"1446","Saudi Arabia","2004",NA
+"1447","Senegal","2004",NA
+"1448","Serbia","2004",NA
+"1449","Seychelles","2004",NA
+"1450","Sierra Leone","2004",NA
+"1451","Singapore","2004",NA
+"1452","Slovak Republic","2004",32.09277
+"1453","Slovenia","2004",24.88746
+"1454","Solomon Islands","2004",NA
+"1455","Somalia","2004",NA
+"1456","South Africa","2004",NA
+"1457","Spain","2004",22.57044
+"1458","Sri Lanka","2004",NA
+"1459","Sudan","2004",NA
+"1460","Suriname","2004",NA
+"1461","Swaziland","2004",345.82593
+"1462","Sweden","2004",42.21692
+"1463","Switzerland","2004",62.31265
+"1464","Syria","2004",NA
+"1465","Tajikistan","2004",8.74206
+"1466","Tanzania","2004",NA
+"1467","Thailand","2004",23.86326
+"1468","Timor-Leste","2004",NA
+"1469","Togo","2004",NA
+"1470","Tonga","2004",126.69518
+"1471","Trinidad and Tobago","2004",NA
+"1472","Tunisia","2004",60.9158
+"1473","Turkey","2004",29.63461
+"1474","Turkmenistan","2004",NA
+"1475","Turks and Caicos Islands","2004",NA
+"1476","Tuvalu","2004",NA
+"1477","Uganda","2004",211.30353
+"1478","Ukraine","2004",32.42741
+"1479","United Arab Emirates","2004",NA
+"1480","United Kingdom","2004",26.73489
+"1481","United States","2004",23.09902
+"1482","Uruguay","2004",NA
+"1483","Uzbekistan","2004",NA
+"1484","Vanuatu","2004",NA
+"1485","Venezuela","2004",NA
+"1486","Vietnam","2004",NA
+"1487","Virgin Islands (U.S.)","2004",NA
+"1488","West Bank and Gaza","2004",NA
+"1489","Yemen, Rep.","2004",NA
+"1490","Zambia","2004",NA
+"1491","Zimbabwe","2004",NA
+"1492","Afghanistan","2005",NA
+"1493","Albania","2005",NA
+"1494","Algeria","2005",NA
+"1495","American Samoa","2005",NA
+"1496","Andorra","2005",18.09629
+"1497","Angola","2005",72.53524
+"1498","Antigua and Barbuda","2005",NA
+"1499","Argentina","2005",NA
+"1500","Armenia","2005",NA
+"1501","Aruba","2005",NA
+"1502","Australia","2005",21.50093
+"1503","Austria","2005",49.98216
+"1504","Azerbaijan","2005",13.47874
+"1505","Bahamas","2005",NA
+"1506","Bahrain","2005",NA
+"1507","Bangladesh","2005",NA
+"1508","Barbados","2005",NA
+"1509","Belarus","2005",27.66708
+"1510","Belgium","2005",34.572
+"1511","Belize","2005",NA
+"1512","Benin","2005",156.03728
+"1513","Bermuda","2005",0
+"1514","Bhutan","2005",NA
+"1515","Bolivia","2005",NA
+"1516","Bosnia and Herzegovina","2005",NA
+"1517","Botswana","2005",312.47426
+"1518","Brazil","2005",34.98434
+"1519","Brunei","2005",NA
+"1520","Bulgaria","2005",23.29646
+"1521","Burkina Faso","2005",217.07429
+"1522","Burundi","2005",334.55734
+"1523","Cambodia","2005",NA
+"1524","Cameroon","2005",69.40938
+"1525","Canada","2005",NA
+"1526","Cape Verde","2005",69.48418
+"1527","Cayman Islands","2005",NA
+"1528","Central African Rep.","2005",NA
+"1529","Chad","2005",314.73828
+"1530","Channel Islands","2005",NA
+"1531","Chile","2005",11.63869
+"1532","China","2005",NA
+"1533","Colombia","2005",19.41236
+"1534","Comoros","2005",NA
+"1535","Congo, Dem. Rep.","2005",NA
+"1536","Congo, Rep.","2005",NA
+"1537","Costa Rica","2005",NA
+"1538","Cote d'Ivoire","2005",NA
+"1539","Croatia","2005",NA
+"1540","Cuba","2005",55.55148
+"1541","Cyprus","2005",59.72327
+"1542","Czech Rep.","2005",27.22554
+"1543","Denmark","2005",55.49687
+"1544","Djibouti","2005",NA
+"1545","Dominica","2005",NA
+"1546","Dominican Rep.","2005",NA
+"1547","Ecuador","2005",NA
+"1548","Egypt","2005",NA
+"1549","El Salvador","2005",15.05609
+"1550","Equatorial Guinea","2005",NA
+"1551","Eritrea","2005",NA
+"1552","Estonia","2005",18.37182
+"1553","Ethiopia","2005",NA
+"1554","Faeroe Islands","2005",NA
+"1555","Fiji","2005",NA
+"1556","Finland","2005",34.37344
+"1557","France","2005",34.47542
+"1558","French Polynesia","2005",NA
+"1559","Gabon","2005",NA
+"1560","Gambia","2005",NA
+"1561","Georgia","2005",NA
+"1562","Germany","2005",NA
+"1563","Ghana","2005",204.88358
+"1564","Gibraltar","2005",NA
+"1565","Greece","2005",25.35958
+"1566","Greenland","2005",NA
+"1567","Grenada","2005",NA
+"1568","Guam","2005",NA
+"1569","Guatemala","2005",NA
+"1570","Guinea","2005",214.78895
+"1571","Guinea-Bissau","2005",NA
+"1572","Guyana","2005",35.38981
+"1573","Haiti","2005",NA
+"1574","Honduras","2005",NA
+"1575","Hong Kong, China","2005",59.7045
+"1576","Hungary","2005",23.85969
+"1577","Iceland","2005",28.41713
+"1578","India","2005",56.18158
+"1579","Indonesia","2005",NA
+"1580","Iran","2005",23.50315
+"1581","Iraq","2005",NA
+"1582","Ireland","2005",24.63511
+"1583","Isle of Man","2005",NA
+"1584","Israel","2005",22.57633
+"1585","Italy","2005",22.20448
+"1586","Jamaica","2005",NA
+"1587","Japan","2005",19.22158
+"1588","Jordan","2005",NA
+"1589","Kazakhstan","2005",5.59704
+"1590","Kenya","2005",NA
+"1591","Kiribati","2005",NA
+"1592","Korea, Dem. Rep.","2005",NA
+"1593","Korea, Rep.","2005",8.67991
+"1594","Kosovo","2005",NA
+"1595","Kuwait","2005",NA
+"1596","Kyrgyzstan","2005",21.81244
+"1597","Laos","2005",NA
+"1598","Latvia","2005",NA
+"1599","Lebanon","2005",18.30137
+"1600","Lesotho","2005",NA
+"1601","Liberia","2005",NA
+"1602","Libya","2005",NA
+"1603","Liechtenstein","2005",NA
+"1604","Lithuania","2005",17.98965
+"1605","Luxembourg","2005",NA
+"1606","Macao, China","2005",22.10036
+"1607","Macedonia, FYR","2005",NA
+"1608","Madagascar","2005",154.47596
+"1609","Malawi","2005",NA
+"1610","Malaysia","2005",NA
+"1611","Maldives","2005",NA
+"1612","Mali","2005",NA
+"1613","Malta","2005",NA
+"1614","Marshall Islands","2005",NA
+"1615","Mauritania","2005",NA
+"1616","Mauritius","2005",28.66558
+"1617","Mayotte","2005",NA
+"1618","Mexico","2005",39.03473
+"1619","Micronesia, Fed. Sts.","2005",NA
+"1620","Moldova","2005",NA
+"1621","Monaco","2005",NA
+"1622","Mongolia","2005",NA
+"1623","Montenegro","2005",NA
+"1624","Morocco","2005",82.65867
+"1625","Mozambique","2005",NA
+"1626","Myanmar","2005",NA
+"1627","Namibia","2005",NA
+"1628","Nepal","2005",NA
+"1629","Netherlands","2005",42.39961
+"1630","New Caledonia","2005",NA
+"1631","New Zealand","2005",25.16082
+"1632","Nicaragua","2005",NA
+"1633","Niger","2005",NA
+"1634","Nigeria","2005",NA
+"1635","Northern Mariana Islands","2005",NA
+"1636","Norway","2005",49.10435
+"1637","Oman","2005",13.53886
+"1638","Pakistan","2005",NA
+"1639","Palau","2005",NA
+"1640","Panama","2005",NA
+"1641","Papua New Guinea","2005",NA
+"1642","Paraguay","2005",NA
+"1643","Peru","2005",8.86389
+"1644","Philippines","2005",11.09671
+"1645","Poland","2005",21.43112
+"1646","Portugal","2005",26.26249
+"1647","Puerto Rico","2005",NA
+"1648","Qatar","2005",35.81991
+"1649","Romania","2005",23.67413
+"1650","Russia","2005",12.62824
+"1651","Rwanda","2005",325.06673
+"1652","Saint Kitts and Nevis","2005",NA
+"1653","Saint Lucia","2005",NA
+"1654","Saint Martin","2005",NA
+"1655","Saint Vincent and the Grenadines","2005",NA
+"1656","Samoa","2005",NA
+"1657","San Marino","2005",NA
+"1658","Sao Tome and Principe","2005",NA
+"1659","Saudi Arabia","2005",NA
+"1660","Senegal","2005",208.05539
+"1661","Serbia","2005",NA
+"1662","Seychelles","2005",NA
+"1663","Sierra Leone","2005",NA
+"1664","Singapore","2005",NA
+"1665","Slovak Republic","2005",24.00435
+"1666","Slovenia","2005",22.3031
+"1667","Solomon Islands","2005",NA
+"1668","Somalia","2005",NA
+"1669","South Africa","2005",NA
+"1670","Spain","2005",22.68619
+"1671","Sri Lanka","2005",NA
+"1672","Sudan","2005",NA
+"1673","Suriname","2005",NA
+"1674","Swaziland","2005",295.14607
+"1675","Sweden","2005",40.05836
+"1676","Switzerland","2005",55.20526
+"1677","Syria","2005",NA
+"1678","Tajikistan","2005",14.03039
+"1679","Tanzania","2005",NA
+"1680","Thailand","2005",25.92311
+"1681","Timor-Leste","2005",NA
+"1682","Togo","2005",NA
+"1683","Tonga","2005",NA
+"1684","Trinidad and Tobago","2005",NA
+"1685","Tunisia","2005",50.12976
+"1686","Turkey","2005",NA
+"1687","Turkmenistan","2005",NA
+"1688","Turks and Caicos Islands","2005",NA
+"1689","Tuvalu","2005",NA
+"1690","Uganda","2005",NA
+"1691","Ukraine","2005",32.29733
+"1692","United Arab Emirates","2005",NA
+"1693","United Kingdom","2005",31.62236
+"1694","United States","2005",23.07108
+"1695","Uruguay","2005",NA
+"1696","Uzbekistan","2005",NA
+"1697","Vanuatu","2005",NA
+"1698","Venezuela","2005",NA
+"1699","Vietnam","2005",NA
+"1700","Virgin Islands (U.S.)","2005",NA
+"1701","West Bank and Gaza","2005",NA
+"1702","Yemen, Rep.","2005",NA
+"1703","Zambia","2005",NA
+"1704","Zimbabwe","2005",NA
+"1705","Afghanistan","2006",NA
+"1706","Albania","2006",NA
+"1707","Algeria","2006",NA
+"1708","American Samoa","2006",NA
+"1709","Andorra","2006",36.27816
+"1710","Angola","2006",80.43032
+"1711","Antigua and Barbuda","2006",NA
+"1712","Argentina","2006",14.20866
+"1713","Armenia","2006",NA
+"1714","Aruba","2006",NA
+"1715","Australia","2006",20.57181
+"1716","Austria","2006",48.02469
+"1717","Azerbaijan","2006",11.54517
+"1718","Bahamas","2006",NA
+"1719","Bahrain","2006",NA
+"1720","Bangladesh","2006",42.35661
+"1721","Barbados","2006",NA
+"1722","Belarus","2006",29.02659
+"1723","Belgium","2006",35.27549
+"1724","Belize","2006",NA
+"1725","Benin","2006",145.10675
+"1726","Bermuda","2006",0
+"1727","Bhutan","2006",NA
+"1728","Bolivia","2006",NA
+"1729","Bosnia and Herzegovina","2006",NA
+"1730","Botswana","2006",NA
+"1731","Brazil","2006",NA
+"1732","Brunei","2006",NA
+"1733","Bulgaria","2006",22.09301
+"1734","Burkina Faso","2006",240.85885
+"1735","Burundi","2006",NA
+"1736","Cambodia","2006",NA
+"1737","Cameroon","2006",46.29514
+"1738","Canada","2006",NA
+"1739","Cape Verde","2006",76.25724
+"1740","Cayman Islands","2006",0
+"1741","Central African Rep.","2006",292.53124
+"1742","Chad","2006",NA
+"1743","Channel Islands","2006",NA
+"1744","Chile","2006",11.75655
+"1745","China","2006",NA
+"1746","Colombia","2006",18.92619
+"1747","Comoros","2006",NA
+"1748","Congo, Dem. Rep.","2006",NA
+"1749","Congo, Rep.","2006",NA
+"1750","Costa Rica","2006",NA
+"1751","Cote d'Ivoire","2006",106.80833
+"1752","Croatia","2006",NA
+"1753","Cuba","2006",34.26735
+"1754","Cyprus","2006",61.9459
+"1755","Czech Rep.","2006",37.28781
+"1756","Denmark","2006",53.7318
+"1757","Djibouti","2006",NA
+"1758","Dominica","2006",NA
+"1759","Dominican Rep.","2006",NA
+"1760","Ecuador","2006",NA
+"1761","Egypt","2006",NA
+"1762","El Salvador","2006",14.27017
+"1763","Equatorial Guinea","2006",NA
+"1764","Eritrea","2006",NA
+"1765","Estonia","2006",NA
+"1766","Ethiopia","2006",NA
+"1767","Faeroe Islands","2006",NA
+"1768","Fiji","2006",NA
+"1769","Finland","2006",33.35969
+"1770","France","2006",34.60866
+"1771","French Polynesia","2006",NA
+"1772","Gabon","2006",NA
+"1773","Gambia","2006",NA
+"1774","Georgia","2006",NA
+"1775","Germany","2006",NA
+"1776","Ghana","2006",NA
+"1777","Gibraltar","2006",NA
+"1778","Greece","2006",NA
+"1779","Greenland","2006",NA
+"1780","Grenada","2006",NA
+"1781","Guam","2006",NA
+"1782","Guatemala","2006",NA
+"1783","Guinea","2006",NA
+"1784","Guinea-Bissau","2006",NA
+"1785","Guyana","2006",27.07839
+"1786","Haiti","2006",NA
+"1787","Honduras","2006",NA
+"1788","Hong Kong, China","2006",57.20433
+"1789","Hungary","2006",23.90236
+"1790","Iceland","2006",26.21682
+"1791","India","2006",53.40422
+"1792","Indonesia","2006",NA
+"1793","Iran","2006",30.2904
+"1794","Iraq","2006",NA
+"1795","Ireland","2006",26.00179
+"1796","Isle of Man","2006",NA
+"1797","Israel","2006",22.80361
+"1798","Italy","2006",23.34052
+"1799","Jamaica","2006",NA
+"1800","Japan","2006",19.0648
+"1801","Jordan","2006",NA
+"1802","Kazakhstan","2006",8.44416
+"1803","Kenya","2006",NA
+"1804","Kiribati","2006",NA
+"1805","Korea, Dem. Rep.","2006",NA
+"1806","Korea, Rep.","2006",9.5128
+"1807","Kosovo","2006",NA
+"1808","Kuwait","2006",NA
+"1809","Kyrgyzstan","2006",22.18542
+"1810","Laos","2006",NA
+"1811","Latvia","2006",15.85249
+"1812","Lebanon","2006",17.60287
+"1813","Lesotho","2006",1344.37095
+"1814","Liberia","2006",NA
+"1815","Libya","2006",NA
+"1816","Liechtenstein","2006",10.27903
+"1817","Lithuania","2006",16.99659
+"1818","Luxembourg","2006",NA
+"1819","Macao, China","2006",19.51861
+"1820","Macedonia, FYR","2006",NA
+"1821","Madagascar","2006",156.95021
+"1822","Malawi","2006",NA
+"1823","Malaysia","2006",60.72167
+"1824","Maldives","2006",NA
+"1825","Mali","2006",NA
+"1826","Malta","2006",NA
+"1827","Marshall Islands","2006",NA
+"1828","Mauritania","2006",NA
+"1829","Mauritius","2006",22.06605
+"1830","Mayotte","2006",NA
+"1831","Mexico","2006",36.4904
+"1832","Micronesia, Fed. Sts.","2006",NA
+"1833","Moldova","2006",36.31533
+"1834","Monaco","2006",NA
+"1835","Mongolia","2006",NA
+"1836","Montenegro","2006",NA
+"1837","Morocco","2006",75.2301
+"1838","Mozambique","2006",NA
+"1839","Myanmar","2006",NA
+"1840","Namibia","2006",121.30302
+"1841","Nepal","2006",NA
+"1842","Netherlands","2006",42.33921
+"1843","New Caledonia","2006",NA
+"1844","New Zealand","2006",25.91318
+"1845","Nicaragua","2006",NA
+"1846","Niger","2006",359.139
+"1847","Nigeria","2006",NA
+"1848","Northern Mariana Islands","2006",NA
+"1849","Norway","2006",44.8544
+"1850","Oman","2006",NA
+"1851","Pakistan","2006",NA
+"1852","Palau","2006",NA
+"1853","Panama","2006",NA
+"1854","Papua New Guinea","2006",NA
+"1855","Paraguay","2006",NA
+"1856","Peru","2006",10.75258
+"1857","Philippines","2006",NA
+"1858","Poland","2006",17.09561
+"1859","Portugal","2006",27.93735
+"1860","Puerto Rico","2006",NA
+"1861","Qatar","2006",NA
+"1862","Romania","2006",NA
+"1863","Russia","2006",13.15953
+"1864","Rwanda","2006",NA
+"1865","Saint Kitts and Nevis","2006",NA
+"1866","Saint Lucia","2006",NA
+"1867","Saint Martin","2006",NA
+"1868","Saint Vincent and the Grenadines","2006",NA
+"1869","Samoa","2006",NA
+"1870","San Marino","2006",NA
+"1871","Sao Tome and Principe","2006",NA
+"1872","Saudi Arabia","2006",NA
+"1873","Senegal","2006",200.06747
+"1874","Serbia","2006",NA
+"1875","Seychelles","2006",NA
+"1876","Sierra Leone","2006",NA
+"1877","Singapore","2006",NA
+"1878","Slovak Republic","2006",24.50036
+"1879","Slovenia","2006",21.56703
+"1880","Solomon Islands","2006",NA
+"1881","Somalia","2006",NA
+"1882","South Africa","2006",NA
+"1883","Spain","2006",23.41699
+"1884","Sri Lanka","2006",NA
+"1885","Sudan","2006",NA
+"1886","Suriname","2006",NA
+"1887","Swaziland","2006",321.92846
+"1888","Sweden","2006",38.85551
+"1889","Switzerland","2006",53.05378
+"1890","Syria","2006",NA
+"1891","Tajikistan","2006",10.86997
+"1892","Tanzania","2006",NA
+"1893","Thailand","2006",29.62255
+"1894","Timor-Leste","2006",NA
+"1895","Togo","2006",NA
+"1896","Tonga","2006",NA
+"1897","Trinidad and Tobago","2006",NA
+"1898","Tunisia","2006",48.61841
+"1899","Turkey","2006",26.91394
+"1900","Turkmenistan","2006",NA
+"1901","Turks and Caicos Islands","2006",NA
+"1902","Tuvalu","2006",NA
+"1903","Uganda","2006",NA
+"1904","Ukraine","2006",31.17488
+"1905","United Arab Emirates","2006",NA
+"1906","United Kingdom","2006",28.76407
+"1907","United States","2006",24.95813
+"1908","Uruguay","2006",18.31936
+"1909","Uzbekistan","2006",NA
+"1910","Vanuatu","2006",NA
+"1911","Venezuela","2006",NA
+"1912","Vietnam","2006",NA
+"1913","Virgin Islands (U.S.)","2006",NA
+"1914","West Bank and Gaza","2006",NA
+"1915","Yemen, Rep.","2006",NA
+"1916","Zambia","2006",NA
+"1917","Zimbabwe","2006",NA
+"1918","Afghanistan","2007",NA
+"1919","Albania","2007",NA
+"1920","Algeria","2007",NA
+"1921","American Samoa","2007",NA
+"1922","Andorra","2007",NA
+"1923","Angola","2007",NA
+"1924","Antigua and Barbuda","2007",NA
+"1925","Argentina","2007",15.59024
+"1926","Armenia","2007",NA
+"1927","Aruba","2007",29.0661
+"1928","Australia","2007",20.2157
+"1929","Austria","2007",47.08546
+"1930","Azerbaijan","2007",12.8636
+"1931","Bahamas","2007",NA
+"1932","Bahrain","2007",NA
+"1933","Bangladesh","2007",36.41534
+"1934","Barbados","2007",49.48645
+"1935","Belarus","2007",18.13323
+"1936","Belgium","2007",35.18642
+"1937","Belize","2007",NA
+"1938","Benin","2007",NA
+"1939","Bermuda","2007",NA
+"1940","Bhutan","2007",NA
+"1941","Bolivia","2007",NA
+"1942","Bosnia and Herzegovina","2007",NA
+"1943","Botswana","2007",256.32397
+"1944","Brazil","2007",29.5963
+"1945","Brunei","2007",NA
+"1946","Bulgaria","2007",18.89112
+"1947","Burkina Faso","2007",314.19221
+"1948","Burundi","2007",NA
+"1949","Cambodia","2007",NA
+"1950","Cameroon","2007",49.01712
+"1951","Canada","2007",NA
+"1952","Cape Verde","2007",NA
+"1953","Cayman Islands","2007",NA
+"1954","Central African Rep.","2007",NA
+"1955","Chad","2007",NA
+"1956","Channel Islands","2007",NA
+"1957","Chile","2007",11.47757
+"1958","China","2007",NA
+"1959","Colombia","2007",NA
+"1960","Comoros","2007",NA
+"1961","Congo, Dem. Rep.","2007",NA
+"1962","Congo, Rep.","2007",NA
+"1963","Costa Rica","2007",NA
+"1964","Cote d'Ivoire","2007",110.32377
+"1965","Croatia","2007",25.23105
+"1966","Cuba","2007",38.8413
+"1967","Cyprus","2007",56.96065
+"1968","Czech Rep.","2007",30.47776
+"1969","Denmark","2007",53.64412
+"1970","Djibouti","2007",NA
+"1971","Dominica","2007",NA
+"1972","Dominican Rep.","2007",NA
+"1973","Ecuador","2007",NA
+"1974","Egypt","2007",NA
+"1975","El Salvador","2007",13.87629
+"1976","Equatorial Guinea","2007",NA
+"1977","Eritrea","2007",NA
+"1978","Estonia","2007",20.53063
+"1979","Ethiopia","2007",NA
+"1980","Faeroe Islands","2007",NA
+"1981","Fiji","2007",NA
+"1982","Finland","2007",31.65187
+"1983","France","2007",36.06871
+"1984","French Polynesia","2007",NA
+"1985","Gabon","2007",NA
+"1986","Gambia","2007",NA
+"1987","Georgia","2007",NA
+"1988","Germany","2007",NA
+"1989","Ghana","2007",232.95778
+"1990","Gibraltar","2007",NA
+"1991","Greece","2007",NA
+"1992","Greenland","2007",NA
+"1993","Grenada","2007",NA
+"1994","Guam","2007",NA
+"1995","Guatemala","2007",18.94667
+"1996","Guinea","2007",NA
+"1997","Guinea-Bissau","2007",NA
+"1998","Guyana","2007",22.00946
+"1999","Haiti","2007",NA
+"2000","Honduras","2007",NA
+"2001","Hong Kong, China","2007",38.46692
+"2002","Hungary","2007",24.29361
+"2003","Iceland","2007",27.36897
+"2004","India","2007",NA
+"2005","Indonesia","2007",19.31005
+"2006","Iran","2007",27.91805
+"2007","Iraq","2007",NA
+"2008","Ireland","2007",26.22769
+"2009","Isle of Man","2007",NA
+"2010","Israel","2007",22.74025
+"2011","Italy","2007",22.12825
+"2012","Jamaica","2007",NA
+"2013","Japan","2007",20.13405
+"2014","Jordan","2007",NA
+"2015","Kazakhstan","2007",7.89411
+"2016","Kenya","2007",NA
+"2017","Kiribati","2007",NA
+"2018","Korea, Dem. Rep.","2007",NA
+"2019","Korea, Rep.","2007",9.04068
+"2020","Kosovo","2007",NA
+"2021","Kuwait","2007",NA
+"2022","Kyrgyzstan","2007",22.49082
+"2023","Laos","2007",NA
+"2024","Latvia","2007",16.3454
+"2025","Lebanon","2007",14.33517
+"2026","Lesotho","2007",NA
+"2027","Liberia","2007",NA
+"2028","Libya","2007",NA
+"2029","Liechtenstein","2007",9.15109
+"2030","Lithuania","2007",17.13247
+"2031","Luxembourg","2007",NA
+"2032","Macao, China","2007",16.32746
+"2033","Macedonia, FYR","2007",NA
+"2034","Madagascar","2007",139.8127
+"2035","Malawi","2007",NA
+"2036","Malaysia","2007",50.28303
+"2037","Maldives","2007",NA
+"2038","Mali","2007",NA
+"2039","Malta","2007",39.67016
+"2040","Marshall Islands","2007",NA
+"2041","Mauritania","2007",NA
+"2042","Mauritius","2007",NA
+"2043","Mayotte","2007",NA
+"2044","Mexico","2007",38.03507
+"2045","Micronesia, Fed. Sts.","2007",NA
+"2046","Moldova","2007",38.98772
+"2047","Monaco","2007",NA
+"2048","Mongolia","2007",NA
+"2049","Montenegro","2007",NA
+"2050","Morocco","2007",NA
+"2051","Mozambique","2007",NA
+"2052","Myanmar","2007",NA
+"2053","Namibia","2007",NA
+"2054","Nepal","2007",NA
+"2055","Netherlands","2007",40.02504
+"2056","New Caledonia","2007",NA
+"2057","New Zealand","2007",28.09452
+"2058","Nicaragua","2007",NA
+"2059","Niger","2007",540.10298
+"2060","Nigeria","2007",NA
+"2061","Northern Mariana Islands","2007",NA
+"2062","Norway","2007",47.25297
+"2063","Oman","2007",NA
+"2064","Pakistan","2007",NA
+"2065","Palau","2007",NA
+"2066","Panama","2007",NA
+"2067","Papua New Guinea","2007",NA
+"2068","Paraguay","2007",25.95835
+"2069","Peru","2007",NA
+"2070","Philippines","2007",9.20456
+"2071","Poland","2007",16.58335
+"2072","Portugal","2007",NA
+"2073","Puerto Rico","2007",NA
+"2074","Qatar","2007",NA
+"2075","Romania","2007",26.16254
+"2076","Russia","2007",NA
+"2077","Rwanda","2007",260.88061
+"2078","Saint Kitts and Nevis","2007",NA
+"2079","Saint Lucia","2007",NA
+"2080","Saint Martin","2007",NA
+"2081","Saint Vincent and the Grenadines","2007",NA
+"2082","Samoa","2007",NA
+"2083","San Marino","2007",NA
+"2084","Sao Tome and Principe","2007",NA
+"2085","Saudi Arabia","2007",NA
+"2086","Senegal","2007",NA
+"2087","Serbia","2007",37.29526
+"2088","Seychelles","2007",NA
+"2089","Sierra Leone","2007",NA
+"2090","Singapore","2007",NA
+"2091","Slovak Republic","2007",19.5593
+"2092","Slovenia","2007",21.06532
+"2093","Solomon Islands","2007",NA
+"2094","Somalia","2007",NA
+"2095","South Africa","2007",NA
+"2096","Spain","2007",25.07081
+"2097","Sri Lanka","2007",NA
+"2098","Sudan","2007",NA
+"2099","Suriname","2007",NA
+"2100","Swaziland","2007",NA
+"2101","Sweden","2007",38.29457
+"2102","Switzerland","2007",46.73135
+"2103","Syria","2007",NA
+"2104","Tajikistan","2007",11.5326
+"2105","Tanzania","2007",NA
+"2106","Thailand","2007",NA
+"2107","Timor-Leste","2007",NA
+"2108","Togo","2007",137.91096
+"2109","Tonga","2007",NA
+"2110","Trinidad and Tobago","2007",NA
+"2111","Tunisia","2007",49.82366
+"2112","Turkey","2007",NA
+"2113","Turkmenistan","2007",NA
+"2114","Turks and Caicos Islands","2007",NA
+"2115","Tuvalu","2007",NA
+"2116","Uganda","2007",NA
+"2117","Ukraine","2007",25.13825
+"2118","United Arab Emirates","2007",NA
+"2119","United Kingdom","2007",24.3317
+"2120","United States","2007",21.71872
+"2121","Uruguay","2007",NA
+"2122","Uzbekistan","2007",NA
+"2123","Vanuatu","2007",NA
+"2124","Venezuela","2007",NA
+"2125","Vietnam","2007",NA
+"2126","Virgin Islands (U.S.)","2007",NA
+"2127","West Bank and Gaza","2007",NA
+"2128","Yemen, Rep.","2007",NA
+"2129","Zambia","2007",NA
+"2130","Zimbabwe","2007",NA
+"2131","Afghanistan","2008",NA
+"2132","Albania","2008",NA
+"2133","Algeria","2008",NA
+"2134","American Samoa","2008",NA
+"2135","Andorra","2008",NA
+"2136","Angola","2008",NA
+"2137","Antigua and Barbuda","2008",NA
+"2138","Argentina","2008",16.5318
+"2139","Armenia","2008",7.39335
+"2140","Aruba","2008",28.80506
+"2141","Australia","2008",19.84824
+"2142","Austria","2008",43.53848
+"2143","Azerbaijan","2008",17.09074
+"2144","Bahamas","2008",NA
+"2145","Bahrain","2008",NA
+"2146","Bangladesh","2008",35.26676
+"2147","Barbados","2008",NA
+"2148","Belarus","2008",NA
+"2149","Belgium","2008",36.579
+"2150","Belize","2008",28.49712
+"2151","Benin","2008",NA
+"2152","Bermuda","2008",NA
+"2153","Bhutan","2008",152.9366
+"2154","Bolivia","2008",NA
+"2155","Bosnia and Herzegovina","2008",NA
+"2156","Botswana","2008",NA
+"2157","Brazil","2008",27.64181
+"2158","Brunei","2008",NA
+"2159","Bulgaria","2008",24.80386
+"2160","Burkina Faso","2008",NA
+"2161","Burundi","2008",551.96042
+"2162","Cambodia","2008",NA
+"2163","Cameroon","2008",32.67652
+"2164","Canada","2008",NA
+"2165","Cape Verde","2008",52.55022
+"2166","Cayman Islands","2008",NA
+"2167","Central African Rep.","2008",101.0115
+"2168","Chad","2008",NA
+"2169","Channel Islands","2008",NA
+"2170","Chile","2008",12.08342
+"2171","China","2008",NA
+"2172","Colombia","2008",26.03312
+"2173","Comoros","2008",NA
+"2174","Congo, Dem. Rep.","2008",NA
+"2175","Congo, Rep.","2008",NA
+"2176","Costa Rica","2008",NA
+"2177","Cote d'Ivoire","2008",NA
+"2178","Croatia","2008",29.21372
+"2179","Cuba","2008",59.10035
+"2180","Cyprus","2008",57.0288
+"2181","Czech Rep.","2008",25.71815
+"2182","Denmark","2008",52.14073
+"2183","Djibouti","2008",NA
+"2184","Dominica","2008",NA
+"2185","Dominican Rep.","2008",NA
+"2186","Ecuador","2008",NA
+"2187","Egypt","2008",NA
+"2188","El Salvador","2008",NA
+"2189","Equatorial Guinea","2008",NA
+"2190","Eritrea","2008",NA
+"2191","Estonia","2008",22.1165
+"2192","Ethiopia","2008",NA
+"2193","Faeroe Islands","2008",NA
+"2194","Fiji","2008",NA
+"2195","Finland","2008",32.45631
+"2196","France","2008",37.00176
+"2197","French Polynesia","2008",NA
+"2198","Gabon","2008",NA
+"2199","Gambia","2008",94.39213
+"2200","Georgia","2008",11.40372
+"2201","Germany","2008",NA
+"2202","Ghana","2008",NA
+"2203","Gibraltar","2008",NA
+"2204","Greece","2008",NA
+"2205","Greenland","2008",NA
+"2206","Grenada","2008",NA
+"2207","Guam","2008",NA
+"2208","Guatemala","2008",NA
+"2209","Guinea","2008",100.01972
+"2210","Guinea-Bissau","2008",NA
+"2211","Guyana","2008",NA
+"2212","Haiti","2008",NA
+"2213","Honduras","2008",NA
+"2214","Hong Kong, China","2008",28.62175
+"2215","Hungary","2008",24.76085
+"2216","Iceland","2008",28.38181
+"2217","India","2008",NA
+"2218","Indonesia","2008",16.75634
+"2219","Iran","2008",20.83658
+"2220","Iraq","2008",NA
+"2221","Ireland","2008",32.74982
+"2222","Isle of Man","2008",NA
+"2223","Israel","2008",21.27728
+"2224","Italy","2008",24.95619
+"2225","Jamaica","2008",42.4121
+"2226","Japan","2008",20.94919
+"2227","Jordan","2008",NA
+"2228","Kazakhstan","2008",NA
+"2229","Kenya","2008",NA
+"2230","Kiribati","2008",NA
+"2231","Korea, Dem. Rep.","2008",NA
+"2232","Korea, Rep.","2008",10.14379
+"2233","Kosovo","2008",NA
+"2234","Kuwait","2008",NA
+"2235","Kyrgyzstan","2008",17.31891
+"2236","Laos","2008",NA
+"2237","Latvia","2008",17.56644
+"2238","Lebanon","2008",11.97319
+"2239","Lesotho","2008",NA
+"2240","Liberia","2008",NA
+"2241","Libya","2008",NA
+"2242","Liechtenstein","2008",NA
+"2243","Lithuania","2008",17.02501
+"2244","Luxembourg","2008",NA
+"2245","Macao, China","2008",16.68051
+"2246","Macedonia, FYR","2008",NA
+"2247","Madagascar","2008",141.06326
+"2248","Malawi","2008",NA
+"2249","Malaysia","2008",34.40422
+"2250","Maldives","2008",0
+"2251","Mali","2008",130.64523
+"2252","Malta","2008",44.38616
+"2253","Marshall Islands","2008",NA
+"2254","Mauritania","2008",183.14395
+"2255","Mauritius","2008",16.11978
+"2256","Mayotte","2008",NA
+"2257","Mexico","2008",38.87924
+"2258","Micronesia, Fed. Sts.","2008",NA
+"2259","Moldova","2008",38.18394
+"2260","Monaco","2008",NA
+"2261","Mongolia","2008",NA
+"2262","Montenegro","2008",NA
+"2263","Morocco","2008",71.58665
+"2264","Mozambique","2008",NA
+"2265","Myanmar","2008",NA
+"2266","Namibia","2008",NA
+"2267","Nepal","2008",NA
+"2268","Netherlands","2008",41.52217
+"2269","New Caledonia","2008",NA
+"2270","New Zealand","2008",28.24662
+"2271","Nicaragua","2008",NA
+"2272","Niger","2008",390.88139
+"2273","Nigeria","2008",NA
+"2274","Northern Mariana Islands","2008",NA
+"2275","Norway","2008",46.8021
+"2276","Oman","2008",NA
+"2277","Pakistan","2008",NA
+"2278","Palau","2008",NA
+"2279","Panama","2008",21.63468
+"2280","Papua New Guinea","2008",NA
+"2281","Paraguay","2008",NA
+"2282","Peru","2008",NA
+"2283","Philippines","2008",NA
+"2284","Poland","2008",18.37913
+"2285","Portugal","2008",26.65398
+"2286","Puerto Rico","2008",NA
+"2287","Qatar","2008",NA
+"2288","Romania","2008",NA
+"2289","Russia","2008",14.24632
+"2290","Rwanda","2008",216.84537
+"2291","Saint Kitts and Nevis","2008",NA
+"2292","Saint Lucia","2008",NA
+"2293","Saint Martin","2008",NA
+"2294","Saint Vincent and the Grenadines","2008",NA
+"2295","Samoa","2008",NA
+"2296","San Marino","2008",NA
+"2297","Sao Tome and Principe","2008",NA
+"2298","Saudi Arabia","2008",NA
+"2299","Senegal","2008",159.87077
+"2300","Serbia","2008",40.99961
+"2301","Seychelles","2008",NA
+"2302","Sierra Leone","2008",NA
+"2303","Singapore","2008",NA
+"2304","Slovak Republic","2008",18.30573
+"2305","Slovenia","2008",21.20439
+"2306","Solomon Islands","2008",NA
+"2307","Somalia","2008",NA
+"2308","South Africa","2008",NA
+"2309","Spain","2008",27.25748
+"2310","Sri Lanka","2008",NA
+"2311","Sudan","2008",NA
+"2312","Suriname","2008",NA
+"2313","Swaziland","2008",NA
+"2314","Sweden","2008",41.3449
+"2315","Switzerland","2008",43.84923
+"2316","Syria","2008",NA
+"2317","Tajikistan","2008",21.22344
+"2318","Tanzania","2008",NA
+"2319","Thailand","2008",22.31215
+"2320","Timor-Leste","2008",NA
+"2321","Togo","2008",NA
+"2322","Tonga","2008",NA
+"2323","Trinidad and Tobago","2008",NA
+"2324","Tunisia","2008",46.14043
+"2325","Turkey","2008",NA
+"2326","Turkmenistan","2008",NA
+"2327","Turks and Caicos Islands","2008",NA
+"2328","Tuvalu","2008",NA
+"2329","Uganda","2008",NA
+"2330","Ukraine","2008",NA
+"2331","United Arab Emirates","2008",NA
+"2332","United Kingdom","2008",22.20171
+"2333","United States","2008",21.15433
+"2334","Uruguay","2008",NA
+"2335","Uzbekistan","2008",NA
+"2336","Vanuatu","2008",NA
+"2337","Venezuela","2008",NA
+"2338","Vietnam","2008",60.62971
+"2339","Virgin Islands (U.S.)","2008",NA
+"2340","West Bank and Gaza","2008",NA
+"2341","Yemen, Rep.","2008",NA
+"2342","Zambia","2008",NA
+"2343","Zimbabwe","2008",NA
+"2344","Afghanistan","2009",NA
+"2345","Albania","2009",NA
+"2346","Algeria","2009",NA
+"2347","American Samoa","2009",NA
+"2348","Andorra","2009",NA
+"2349","Angola","2009",NA
+"2350","Antigua and Barbuda","2009",15.30997
+"2351","Argentina","2009",19.06417
+"2352","Armenia","2009",7.17275
+"2353","Aruba","2009",37.5624
+"2354","Australia","2009",20.67792
+"2355","Austria","2009",NA
+"2356","Azerbaijan","2009",22.34607
+"2357","Bahamas","2009",NA
+"2358","Bahrain","2009",NA
+"2359","Bangladesh","2009",27.7316
+"2360","Barbados","2009",37.9003
+"2361","Belarus","2009",14.69872
+"2362","Belgium","2009",NA
+"2363","Belize","2009",30.98283
+"2364","Benin","2009",NA
+"2365","Bermuda","2009",NA
+"2366","Bhutan","2009",85.05035
+"2367","Bolivia","2009",NA
+"2368","Bosnia and Herzegovina","2009",NA
+"2369","Botswana","2009",NA
+"2370","Brazil","2009",NA
+"2371","Brunei","2009",NA
+"2372","Bulgaria","2009",NA
+"2373","Burkina Faso","2009",NA
+"2374","Burundi","2009",509.86723
+"2375","Cambodia","2009",NA
+"2376","Cameroon","2009",34.64004
+"2377","Canada","2009",NA
+"2378","Cape Verde","2009",46.45187
+"2379","Cayman Islands","2009",NA
+"2380","Central African Rep.","2009",122.72811
+"2381","Chad","2009",207.69552
+"2382","Channel Islands","2009",NA
+"2383","Chile","2009",13.68789
+"2384","China","2009",NA
+"2385","Colombia","2009",26.83499
+"2386","Comoros","2009",NA
+"2387","Congo, Dem. Rep.","2009",NA
+"2388","Congo, Rep.","2009",NA
+"2389","Costa Rica","2009",NA
+"2390","Cote d'Ivoire","2009",NA
+"2391","Croatia","2009",NA
+"2392","Cuba","2009",61.0726
+"2393","Cyprus","2009",NA
+"2394","Czech Rep.","2009",NA
+"2395","Denmark","2009",NA
+"2396","Djibouti","2009",NA
+"2397","Dominica","2009",NA
+"2398","Dominican Rep.","2009",NA
+"2399","Ecuador","2009",NA
+"2400","Egypt","2009",NA
+"2401","El Salvador","2009",NA
+"2402","Equatorial Guinea","2009",NA
+"2403","Eritrea","2009",NA
+"2404","Estonia","2009",NA
+"2405","Ethiopia","2009",NA
+"2406","Faeroe Islands","2009",NA
+"2407","Fiji","2009",NA
+"2408","Finland","2009",NA
+"2409","France","2009",NA
+"2410","French Polynesia","2009",NA
+"2411","Gabon","2009",NA
+"2412","Gambia","2009",NA
+"2413","Georgia","2009",NA
+"2414","Germany","2009",NA
+"2415","Ghana","2009",NA
+"2416","Gibraltar","2009",NA
+"2417","Greece","2009",NA
+"2418","Greenland","2009",NA
+"2419","Grenada","2009",NA
+"2420","Guam","2009",NA
+"2421","Guatemala","2009",NA
+"2422","Guinea","2009",NA
+"2423","Guinea-Bissau","2009",NA
+"2424","Guyana","2009",26.0933
+"2425","Haiti","2009",NA
+"2426","Honduras","2009",NA
+"2427","Hong Kong, China","2009",56.2468
+"2428","Hungary","2009",NA
+"2429","Iceland","2009",NA
+"2430","India","2009",NA
+"2431","Indonesia","2009",NA
+"2432","Iran","2009",22.27142
+"2433","Iraq","2009",NA
+"2434","Ireland","2009",NA
+"2435","Isle of Man","2009",NA
+"2436","Israel","2009",NA
+"2437","Italy","2009",NA
+"2438","Jamaica","2009",52.80942
+"2439","Japan","2009",NA
+"2440","Jordan","2009",NA
+"2441","Kazakhstan","2009",10.07758
+"2442","Kenya","2009",NA
+"2443","Kiribati","2009",NA
+"2444","Korea, Dem. Rep.","2009",NA
+"2445","Korea, Rep.","2009",NA
+"2446","Kosovo","2009",NA
+"2447","Kuwait","2009",NA
+"2448","Kyrgyzstan","2009",17.60161
+"2449","Laos","2009",NA
+"2450","Latvia","2009",14.15145
+"2451","Lebanon","2009",10.02496
+"2452","Lesotho","2009",NA
+"2453","Liberia","2009",NA
+"2454","Libya","2009",NA
+"2455","Liechtenstein","2009",NA
+"2456","Lithuania","2009",NA
+"2457","Luxembourg","2009",NA
+"2458","Macao, China","2009",15.75585
+"2459","Macedonia, FYR","2009",NA
+"2460","Madagascar","2009",144.78639
+"2461","Malawi","2009",NA
+"2462","Malaysia","2009",60.72263
+"2463","Maldives","2009",NA
+"2464","Mali","2009",135.32849
+"2465","Malta","2009",NA
+"2466","Marshall Islands","2009",NA
+"2467","Mauritania","2009",NA
+"2468","Mauritius","2009",NA
+"2469","Mayotte","2009",NA
+"2470","Mexico","2009",NA
+"2471","Micronesia, Fed. Sts.","2009",NA
+"2472","Moldova","2009",45.30861
+"2473","Monaco","2009",NA
+"2474","Mongolia","2009",NA
+"2475","Montenegro","2009",NA
+"2476","Morocco","2009",83.28092
+"2477","Mozambique","2009",NA
+"2478","Myanmar","2009",NA
+"2479","Namibia","2009",NA
+"2480","Nepal","2009",55.84223
+"2481","Netherlands","2009",NA
+"2482","New Caledonia","2009",NA
+"2483","New Zealand","2009",30.96712
+"2484","Nicaragua","2009",NA
+"2485","Niger","2009",430.38093
+"2486","Nigeria","2009",NA
+"2487","Northern Mariana Islands","2009",NA
+"2488","Norway","2009",NA
+"2489","Oman","2009",41.63667
+"2490","Pakistan","2009",NA
+"2491","Palau","2009",NA
+"2492","Panama","2009",NA
+"2493","Papua New Guinea","2009",NA
+"2494","Paraguay","2009",NA
+"2495","Peru","2009",NA
+"2496","Philippines","2009",NA
+"2497","Poland","2009",NA
+"2498","Portugal","2009",NA
+"2499","Puerto Rico","2009",NA
+"2500","Qatar","2009",337.722
+"2501","Romania","2009",NA
+"2502","Russia","2009",NA
+"2503","Rwanda","2009",NA
+"2504","Saint Kitts and Nevis","2009",NA
+"2505","Saint Lucia","2009",NA
+"2506","Saint Martin","2009",NA
+"2507","Saint Vincent and the Grenadines","2009",NA
+"2508","Samoa","2009",NA
+"2509","San Marino","2009",NA
+"2510","Sao Tome and Principe","2009",NA
+"2511","Saudi Arabia","2009",NA
+"2512","Senegal","2009",162.67308
+"2513","Serbia","2009",43.25672
+"2514","Seychelles","2009",NA
+"2515","Sierra Leone","2009",NA
+"2516","Singapore","2009",27.91326
+"2517","Slovak Republic","2009",NA
+"2518","Slovenia","2009",NA
+"2519","Solomon Islands","2009",NA
+"2520","Somalia","2009",NA
+"2521","South Africa","2009",NA
+"2522","Spain","2009",NA
+"2523","Sri Lanka","2009",NA
+"2524","Sudan","2009",NA
+"2525","Suriname","2009",NA
+"2526","Swaziland","2009",NA
+"2527","Sweden","2009",NA
+"2528","Switzerland","2009",NA
+"2529","Syria","2009",NA
+"2530","Tajikistan","2009",NA
+"2531","Tanzania","2009",NA
+"2532","Thailand","2009",22.65243
+"2533","Timor-Leste","2009",83.92033
+"2534","Togo","2009",NA
+"2535","Tonga","2009",NA
+"2536","Trinidad and Tobago","2009",NA
+"2537","Tunisia","2009",NA
+"2538","Turkey","2009",NA
+"2539","Turkmenistan","2009",NA
+"2540","Turks and Caicos Islands","2009",NA
+"2541","Tuvalu","2009",NA
+"2542","Uganda","2009",104.3112
+"2543","Ukraine","2009",NA
+"2544","United Arab Emirates","2009",19.87342
+"2545","United Kingdom","2009",NA
+"2546","United States","2009",NA
+"2547","Uruguay","2009",NA
+"2548","Uzbekistan","2009",NA
+"2549","Vanuatu","2009",NA
+"2550","Venezuela","2009",NA
+"2551","Vietnam","2009",NA
+"2552","Virgin Islands (U.S.)","2009",NA
+"2553","West Bank and Gaza","2009",NA
+"2554","Yemen, Rep.","2009",NA
+"2555","Zambia","2009",NA
+"2556","Zimbabwe","2009",NA
+"2557","Afghanistan","2010",NA
+"2558","Albania","2010",NA
+"2559","Algeria","2010",NA
+"2560","American Samoa","2010",NA
+"2561","Andorra","2010",NA
+"2562","Angola","2010",NA
+"2563","Antigua and Barbuda","2010",NA
+"2564","Argentina","2010",NA
+"2565","Armenia","2010",7.45701
+"2566","Aruba","2010",NA
+"2567","Australia","2010",NA
+"2568","Austria","2010",NA
+"2569","Azerbaijan","2010",NA
+"2570","Bahamas","2010",NA
+"2571","Bahrain","2010",NA
+"2572","Bangladesh","2010",NA
+"2573","Barbados","2010",41.36779
+"2574","Belarus","2010",NA
+"2575","Belgium","2010",NA
+"2576","Belize","2010",NA
+"2577","Benin","2010",NA
+"2578","Bermuda","2010",27.97004
+"2579","Bhutan","2010",NA
+"2580","Bolivia","2010",NA
+"2581","Bosnia and Herzegovina","2010",NA
+"2582","Botswana","2010",NA
+"2583","Brazil","2010",NA
+"2584","Brunei","2010",32.01406
+"2585","Bulgaria","2010",NA
+"2586","Burkina Faso","2010",NA
+"2587","Burundi","2010",477.44336
+"2588","Cambodia","2010",NA
+"2589","Cameroon","2010",28.00432
+"2590","Canada","2010",NA
+"2591","Cape Verde","2010",NA
+"2592","Cayman Islands","2010",NA
+"2593","Central African Rep.","2010",95.96934
+"2594","Chad","2010",279.05838
+"2595","Channel Islands","2010",NA
+"2596","Chile","2010",NA
+"2597","China","2010",NA
+"2598","Colombia","2010",29.38708
+"2599","Comoros","2010",NA
+"2600","Congo, Dem. Rep.","2010",NA
+"2601","Congo, Rep.","2010",134.15399
+"2602","Costa Rica","2010",NA
+"2603","Cote d'Ivoire","2010",NA
+"2604","Croatia","2010",NA
+"2605","Cuba","2010",NA
+"2606","Cyprus","2010",NA
+"2607","Czech Rep.","2010",NA
+"2608","Denmark","2010",NA
+"2609","Djibouti","2010",NA
+"2610","Dominica","2010",NA
+"2611","Dominican Rep.","2010",NA
+"2612","Ecuador","2010",NA
+"2613","Egypt","2010",NA
+"2614","El Salvador","2010",11.74206
+"2615","Equatorial Guinea","2010",NA
+"2616","Eritrea","2010",NA
+"2617","Estonia","2010",NA
+"2618","Ethiopia","2010",31.02186
+"2619","Faeroe Islands","2010",NA
+"2620","Fiji","2010",NA
+"2621","Finland","2010",NA
+"2622","France","2010",NA
+"2623","French Polynesia","2010",NA
+"2624","Gabon","2010",NA
+"2625","Gambia","2010",NA
+"2626","Georgia","2010",NA
+"2627","Germany","2010",NA
+"2628","Ghana","2010",171.70777
+"2629","Gibraltar","2010",NA
+"2630","Greece","2010",NA
+"2631","Greenland","2010",NA
+"2632","Grenada","2010",NA
+"2633","Guam","2010",NA
+"2634","Guatemala","2010",NA
+"2635","Guinea","2010",NA
+"2636","Guinea-Bissau","2010",NA
+"2637","Guyana","2010",18.69674
+"2638","Haiti","2010",NA
+"2639","Honduras","2010",NA
+"2640","Hong Kong, China","2010",26.82899
+"2641","Hungary","2010",NA
+"2642","Iceland","2010",NA
+"2643","India","2010",NA
+"2644","Indonesia","2010",NA
+"2645","Iran","2010",19.22552
+"2646","Iraq","2010",NA
+"2647","Ireland","2010",NA
+"2648","Isle of Man","2010",NA
+"2649","Israel","2010",NA
+"2650","Italy","2010",NA
+"2651","Jamaica","2010",50.19577
+"2652","Japan","2010",NA
+"2653","Jordan","2010",NA
+"2654","Kazakhstan","2010",NA
+"2655","Kenya","2010",NA
+"2656","Kiribati","2010",NA
+"2657","Korea, Dem. Rep.","2010",NA
+"2658","Korea, Rep.","2010",NA
+"2659","Kosovo","2010",NA
+"2660","Kuwait","2010",NA
+"2661","Kyrgyzstan","2010",NA
+"2662","Laos","2010",NA
+"2663","Latvia","2010",NA
+"2664","Lebanon","2010",NA
+"2665","Lesotho","2010",NA
+"2666","Liberia","2010",NA
+"2667","Libya","2010",NA
+"2668","Liechtenstein","2010",NA
+"2669","Lithuania","2010",NA
+"2670","Luxembourg","2010",NA
+"2671","Macao, China","2010",NA
+"2672","Macedonia, FYR","2010",NA
+"2673","Madagascar","2010",NA
+"2674","Malawi","2010",1937.6117
+"2675","Malaysia","2010",NA
+"2676","Maldives","2010",NA
+"2677","Mali","2010",NA
+"2678","Malta","2010",NA
+"2679","Marshall Islands","2010",NA
+"2680","Mauritania","2010",193.87542
+"2681","Mauritius","2010",NA
+"2682","Mayotte","2010",NA
+"2683","Mexico","2010",NA
+"2684","Micronesia, Fed. Sts.","2010",NA
+"2685","Moldova","2010",44.84736
+"2686","Monaco","2010",NA
+"2687","Mongolia","2010",5.98403
+"2688","Montenegro","2010",NA
+"2689","Morocco","2010",NA
+"2690","Mozambique","2010",NA
+"2691","Myanmar","2010",NA
+"2692","Namibia","2010",NA
+"2693","Nepal","2010",39.25198
+"2694","Netherlands","2010",NA
+"2695","New Caledonia","2010",NA
+"2696","New Zealand","2010",31.41657
+"2697","Nicaragua","2010",NA
+"2698","Niger","2010",438.80595
+"2699","Nigeria","2010",NA
+"2700","Northern Mariana Islands","2010",NA
+"2701","Norway","2010",NA
+"2702","Oman","2010",NA
+"2703","Pakistan","2010",NA
+"2704","Palau","2010",NA
+"2705","Panama","2010",NA
+"2706","Papua New Guinea","2010",NA
+"2707","Paraguay","2010",NA
+"2708","Peru","2010",NA
+"2709","Philippines","2010",NA
+"2710","Poland","2010",NA
+"2711","Portugal","2010",NA
+"2712","Puerto Rico","2010",NA
+"2713","Qatar","2010",NA
+"2714","Romania","2010",NA
+"2715","Russia","2010",NA
+"2716","Rwanda","2010",186.75129
+"2717","Saint Kitts and Nevis","2010",NA
+"2718","Saint Lucia","2010",NA
+"2719","Saint Martin","2010",NA
+"2720","Saint Vincent and the Grenadines","2010",NA
+"2721","Samoa","2010",NA
+"2722","San Marino","2010",NA
+"2723","Sao Tome and Principe","2010",NA
+"2724","Saudi Arabia","2010",NA
+"2725","Senegal","2010",186.86933
+"2726","Serbia","2010",NA
+"2727","Seychelles","2010",NA
+"2728","Sierra Leone","2010",NA
+"2729","Singapore","2010",28.71979
+"2730","Slovak Republic","2010",NA
+"2731","Slovenia","2010",NA
+"2732","Solomon Islands","2010",NA
+"2733","Somalia","2010",NA
+"2734","South Africa","2010",NA
+"2735","Spain","2010",NA
+"2736","Sri Lanka","2010",NA
+"2737","Sudan","2010",NA
+"2738","Suriname","2010",NA
+"2739","Swaziland","2010",NA
+"2740","Sweden","2010",NA
+"2741","Switzerland","2010",NA
+"2742","Syria","2010",NA
+"2743","Tajikistan","2010",17.45104
+"2744","Tanzania","2010",873.25659
+"2745","Thailand","2010",17.64811
+"2746","Timor-Leste","2010",NA
+"2747","Togo","2010",NA
+"2748","Tonga","2010",NA
+"2749","Trinidad and Tobago","2010",NA
+"2750","Tunisia","2010",NA
+"2751","Turkey","2010",NA
+"2752","Turkmenistan","2010",NA
+"2753","Turks and Caicos Islands","2010",NA
+"2754","Tuvalu","2010",NA
+"2755","Uganda","2010",NA
+"2756","Ukraine","2010",NA
+"2757","United Arab Emirates","2010",NA
+"2758","United Kingdom","2010",NA
+"2759","United States","2010",NA
+"2760","Uruguay","2010",NA
+"2761","Uzbekistan","2010",NA
+"2762","Vanuatu","2010",NA
+"2763","Venezuela","2010",NA
+"2764","Vietnam","2010",NA
+"2765","Virgin Islands (U.S.)","2010",NA
+"2766","West Bank and Gaza","2010",NA
+"2767","Yemen, Rep.","2010",NA
+"2768","Zambia","2010",NA
+"2769","Zimbabwe","2010",75.39536
+"2770","Afghanistan","2011",NA
+"2771","Albania","2011",NA
+"2772","Algeria","2011",NA
+"2773","American Samoa","2011",NA
+"2774","Andorra","2011",NA
+"2775","Angola","2011",NA
+"2776","Antigua and Barbuda","2011",NA
+"2777","Argentina","2011",NA
+"2778","Armenia","2011",NA
+"2779","Aruba","2011",NA
+"2780","Australia","2011",NA
+"2781","Austria","2011",NA
+"2782","Azerbaijan","2011",NA
+"2783","Bahamas","2011",NA
+"2784","Bahrain","2011",NA
+"2785","Bangladesh","2011",NA
+"2786","Barbados","2011",NA
+"2787","Belarus","2011",NA
+"2788","Belgium","2011",NA
+"2789","Belize","2011",NA
+"2790","Benin","2011",NA
+"2791","Bermuda","2011",NA
+"2792","Bhutan","2011",NA
+"2793","Bolivia","2011",NA
+"2794","Bosnia and Herzegovina","2011",NA
+"2795","Botswana","2011",NA
+"2796","Brazil","2011",NA
+"2797","Brunei","2011",NA
+"2798","Bulgaria","2011",NA
+"2799","Burkina Faso","2011",NA
+"2800","Burundi","2011",NA
+"2801","Cambodia","2011",NA
+"2802","Cameroon","2011",NA
+"2803","Canada","2011",NA
+"2804","Cape Verde","2011",NA
+"2805","Cayman Islands","2011",NA
+"2806","Central African Rep.","2011",NA
+"2807","Chad","2011",NA
+"2808","Channel Islands","2011",NA
+"2809","Chile","2011",NA
+"2810","China","2011",NA
+"2811","Colombia","2011",NA
+"2812","Comoros","2011",NA
+"2813","Congo, Dem. Rep.","2011",NA
+"2814","Congo, Rep.","2011",NA
+"2815","Costa Rica","2011",NA
+"2816","Cote d'Ivoire","2011",NA
+"2817","Croatia","2011",NA
+"2818","Cuba","2011",NA
+"2819","Cyprus","2011",NA
+"2820","Czech Rep.","2011",NA
+"2821","Denmark","2011",NA
+"2822","Djibouti","2011",NA
+"2823","Dominica","2011",NA
+"2824","Dominican Rep.","2011",NA
+"2825","Ecuador","2011",NA
+"2826","Egypt","2011",NA
+"2827","El Salvador","2011",NA
+"2828","Equatorial Guinea","2011",NA
+"2829","Eritrea","2011",NA
+"2830","Estonia","2011",NA
+"2831","Ethiopia","2011",NA
+"2832","Faeroe Islands","2011",NA
+"2833","Fiji","2011",NA
+"2834","Finland","2011",NA
+"2835","France","2011",NA
+"2836","French Polynesia","2011",NA
+"2837","Gabon","2011",NA
+"2838","Gambia","2011",NA
+"2839","Georgia","2011",NA
+"2840","Germany","2011",NA
+"2841","Ghana","2011",NA
+"2842","Gibraltar","2011",NA
+"2843","Greece","2011",NA
+"2844","Greenland","2011",NA
+"2845","Grenada","2011",NA
+"2846","Guam","2011",NA
+"2847","Guatemala","2011",NA
+"2848","Guinea","2011",NA
+"2849","Guinea-Bissau","2011",NA
+"2850","Guyana","2011",NA
+"2851","Haiti","2011",NA
+"2852","Honduras","2011",NA
+"2853","Hong Kong, China","2011",NA
+"2854","Hungary","2011",NA
+"2855","Iceland","2011",NA
+"2856","India","2011",NA
+"2857","Indonesia","2011",NA
+"2858","Iran","2011",NA
+"2859","Iraq","2011",NA
+"2860","Ireland","2011",NA
+"2861","Isle of Man","2011",NA
+"2862","Israel","2011",NA
+"2863","Italy","2011",NA
+"2864","Jamaica","2011",NA
+"2865","Japan","2011",NA
+"2866","Jordan","2011",NA
+"2867","Kazakhstan","2011",NA
+"2868","Kenya","2011",NA
+"2869","Kiribati","2011",NA
+"2870","Korea, Dem. Rep.","2011",NA
+"2871","Korea, Rep.","2011",NA
+"2872","Kosovo","2011",NA
+"2873","Kuwait","2011",NA
+"2874","Kyrgyzstan","2011",NA
+"2875","Laos","2011",NA
+"2876","Latvia","2011",NA
+"2877","Lebanon","2011",NA
+"2878","Lesotho","2011",NA
+"2879","Liberia","2011",NA
+"2880","Libya","2011",NA
+"2881","Liechtenstein","2011",NA
+"2882","Lithuania","2011",NA
+"2883","Luxembourg","2011",NA
+"2884","Macao, China","2011",NA
+"2885","Macedonia, FYR","2011",NA
+"2886","Madagascar","2011",NA
+"2887","Malawi","2011",NA
+"2888","Malaysia","2011",NA
+"2889","Maldives","2011",NA
+"2890","Mali","2011",NA
+"2891","Malta","2011",NA
+"2892","Marshall Islands","2011",NA
+"2893","Mauritania","2011",NA
+"2894","Mauritius","2011",NA
+"2895","Mayotte","2011",NA
+"2896","Mexico","2011",NA
+"2897","Micronesia, Fed. Sts.","2011",NA
+"2898","Moldova","2011",NA
+"2899","Monaco","2011",NA
+"2900","Mongolia","2011",NA
+"2901","Montenegro","2011",NA
+"2902","Morocco","2011",NA
+"2903","Mozambique","2011",NA
+"2904","Myanmar","2011",NA
+"2905","Namibia","2011",NA
+"2906","Nepal","2011",NA
+"2907","Netherlands","2011",NA
+"2908","New Caledonia","2011",NA
+"2909","New Zealand","2011",NA
+"2910","Nicaragua","2011",NA
+"2911","Niger","2011",NA
+"2912","Nigeria","2011",NA
+"2913","Northern Mariana Islands","2011",NA
+"2914","Norway","2011",NA
+"2915","Oman","2011",NA
+"2916","Pakistan","2011",NA
+"2917","Palau","2011",NA
+"2918","Panama","2011",NA
+"2919","Papua New Guinea","2011",NA
+"2920","Paraguay","2011",NA
+"2921","Peru","2011",NA
+"2922","Philippines","2011",NA
+"2923","Poland","2011",NA
+"2924","Portugal","2011",NA
+"2925","Puerto Rico","2011",NA
+"2926","Qatar","2011",NA
+"2927","Romania","2011",NA
+"2928","Russia","2011",NA
+"2929","Rwanda","2011",NA
+"2930","Saint Kitts and Nevis","2011",NA
+"2931","Saint Lucia","2011",NA
+"2932","Saint Martin","2011",NA
+"2933","Saint Vincent and the Grenadines","2011",NA
+"2934","Samoa","2011",NA
+"2935","San Marino","2011",NA
+"2936","Sao Tome and Principe","2011",NA
+"2937","Saudi Arabia","2011",NA
+"2938","Senegal","2011",NA
+"2939","Serbia","2011",NA
+"2940","Seychelles","2011",NA
+"2941","Sierra Leone","2011",NA
+"2942","Singapore","2011",NA
+"2943","Slovak Republic","2011",NA
+"2944","Slovenia","2011",NA
+"2945","Solomon Islands","2011",NA
+"2946","Somalia","2011",NA
+"2947","South Africa","2011",NA
+"2948","Spain","2011",NA
+"2949","Sri Lanka","2011",NA
+"2950","Sudan","2011",NA
+"2951","Suriname","2011",NA
+"2952","Swaziland","2011",NA
+"2953","Sweden","2011",NA
+"2954","Switzerland","2011",NA
+"2955","Syria","2011",NA
+"2956","Tajikistan","2011",NA
+"2957","Tanzania","2011",NA
+"2958","Thailand","2011",NA
+"2959","Timor-Leste","2011",NA
+"2960","Togo","2011",NA
+"2961","Tonga","2011",NA
+"2962","Trinidad and Tobago","2011",NA
+"2963","Tunisia","2011",NA
+"2964","Turkey","2011",NA
+"2965","Turkmenistan","2011",NA
+"2966","Turks and Caicos Islands","2011",NA
+"2967","Tuvalu","2011",NA
+"2968","Uganda","2011",NA
+"2969","Ukraine","2011",NA
+"2970","United Arab Emirates","2011",NA
+"2971","United Kingdom","2011",NA
+"2972","United States","2011",NA
+"2973","Uruguay","2011",NA
+"2974","Uzbekistan","2011",NA
+"2975","Vanuatu","2011",NA
+"2976","Venezuela","2011",NA
+"2977","Vietnam","2011",NA
+"2978","Virgin Islands (U.S.)","2011",NA
+"2979","West Bank and Gaza","2011",NA
+"2980","Yemen, Rep.","2011",NA
+"2981","Zambia","2011",NA
+"2982","Zimbabwe","2011",NA
