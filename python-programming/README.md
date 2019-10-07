@@ -9,6 +9,8 @@ The workshop materials are in the form of iPython notebooks.  Provided here are 
 
    For importing into Google Colab from Github:  Search on: `gwu-libraries/gwlibraries-workshops`
    
+   In case "Google Colaboratory" fails to appear in the "New" menu in Google Drive, go to this link: https://colab.research.google.com/ (you may want to bookmark this)
+   
    And a handy link for ways to import/export files in Google Colaboratory:  https://colab.research.google.com/notebooks/io.ipynb
    
    
