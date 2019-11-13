@@ -4,7 +4,16 @@
 
 If you already have R installed, skip to Step 2.  If you also have RStudio installed, skip to Step 3.  It would, however, be a good idea to bring your versions of both R and RStudio up to date.
 
-***Attendees of the Nov. 2019 workshop at GWSPH:*** If you encounter any problems with these installations prior to the workshop, please contact me at kerchner@gwu.edu and I can drop by to assist.
+***Attendees of the Nov. 2019 workshop at GWSPH:*** If you encounter any problems with these installations prior to the workshop, please contact me at kerchner@gwu.edu and I can try to assist.
+
+### 0. Create a Github account (if you don't already have one)
+
+|  |  |
+|--|--|
+| If you already have a Github account | Please make sure you know:<br>1. Your Github username<br>2. Your Github password<br>3. The email account you associated with your Github account |
+| If you **don't** yet have a Github account | Go to https://github.com/ and create a free Github account.  Please remember your password and the email account you associate with your Github account |
+
+Although we won't need it for this workshop, I would highly recommend for faculty and students to also take advantage of Github's education benefits (slightly different for faculty versus students) at: https://education.github.com/benefits 
 
 ### 1. Install R
 
@@ -14,29 +23,29 @@ Please follow the instructions at https://cran.r-project.org/ for installing R.
 
 RStudio be downloaded from https://www.rstudio.com/products/rstudio/download/. You will need the free Desktop version.
 
-### 3. Install Git
+### 3. Determine whether your computer already has `git` installed.
 
-I plan to update this section soon (by a few weeks before the workshop), but if you're really eager to install now, you can refer to these instructions:
+Your computer may or may not already have `git` installed.  Here's one way to check:
 
-#### MacOS
+|  |  |
+| ----- | ---- |
+| **MacOS** |     If you open the Terminal app and type:<br>`which git`<br>and you get a response like:<br> `/usr/bin/git`<br>then git is already installed.  If you do not get a path as a result, you might not have git installed.  |
+| **Windows** | In the Windows Start menu search bar (usually in the bottom left), search for Git on your computer. If you get an App result, then git is already installed. |
+ 
 
-You might already have `git` installed.  If you open the Terminal app and type:
+### 4. If you _**don't**_ have `git` installed, install it
 
-`which git`
+|  |  |
+| ----- | ---- |
+| **MacOS** |   Go to https://git-scm.com/download/mac, download and run the installer. Accepting all of the default selections is recommended. |
+| **Windows** | Go to http://git-scm.com/download/win, download and run the installer.  Accepting all of the default selections is recommended. |
 
-and you get a response like:
+#### For further help and other ways of installing Git:
 
-`/usr/bin/git`
+https://happygitwithr.com/install-git.html
 
-then git is already installed.  Otherwise, proceed to:
 
-https://happygitwithr.com/install-git.html#macos
-
-#### Windows
-
-https://happygitwithr.com/install-git.html#install-git-windows
-
-### 4. Configure Git location in RStudio
+### 5. Configure Git location in RStudio
 
 * Open RStudio
 * Click **Tools -> Global Options -> Git/SVN**
@@ -50,12 +59,6 @@ https://happygitwithr.com/install-git.html#install-git-windows
   (you can also open the Terminal and type `which git` to find git's location)
   On Windows, `git.exe` will likely be somewhere in `Program Files`
   
-  Click OK
-
-### 5. Create a free Github account (if you don't already have one)
-
-Go to https://github.com/ and create a free Github account.
-
-Although we won't need it for this workshop, I would highly recommend for faculty and students to also take advantage of Github's education benefits (slightly different for faculty versus students) at: https://education.github.com/benefits 
+  Click `OK`
 
 
