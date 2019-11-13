@@ -40,7 +40,7 @@ Your computer may or may not already have `git` installed.  Here's one way to ch
 | **MacOS** |   Go to https://git-scm.com/download/mac, download and run the installer. Accepting all of the default selections is recommended. |
 | **Windows** | Go to http://git-scm.com/download/win, download and run the installer.  Accepting all of the default selections is recommended. |
 
-#### For further help and other ways of installing Git: https://happygitwithr.com/install-git.html
+For further help and other ways of installing Git: https://happygitwithr.com/install-git.html
 
 
 ### 5. Configure Git location in RStudio
