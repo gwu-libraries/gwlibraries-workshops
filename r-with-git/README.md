@@ -62,4 +62,15 @@ For further help and other ways of installing Git: https://happygitwithr.com/ins
   
 * Click `OK`
 
+### 6. Configure your user name and email
 
+* Open RStudio
+* Open the Terminal tab (it's next to the Console tab)
+* Enter the following at the prompt (substitute _your_ name, unless your name is Jane Doe. Keep the quotation marks.)
+```
+git config --global user.name "Jane Doe"
+```
+* Enter the following at the prompt (substitute _your_ email, unless your email is `jane@example.com`. Keep the quotation marks.)
+```
+git config --global user.email "jane@example.com"
+```
