@@ -50,15 +50,18 @@ https://happygitwithr.com/install-git.html
 * Open RStudio
 * Click **Tools -> Global Options -> Git/SVN**
 
-  If Git executable shows (none), click Browse and select the git executable installed on your system
+* If `Git executable` shows (none), click `Browse` and select the git executable installed on your system
 
   On a Mac, this will likely be one of
   `/usr/bin/git`
   `/usr/local/bin/git`
   `/usr/local/git/bin/git`
-  (you can also open the Terminal and type `which git` to find git's location)
-  On Windows, `git.exe` will likely be somewhere in `Program Files`
+  (you can also open the Terminal app and type `which git` to find git's location)
   
-  Click `OK`
+  On Windows, `git.exe` will likely be somewhere in `Program Files` (for example: `C:/Program Files/Git/bin/git.exe`)
+ 
+* Check `Enable version control interface for RStudio projects`
+  
+* Click `OK`
 
 
