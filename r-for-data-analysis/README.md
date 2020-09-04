@@ -23,3 +23,20 @@ Links for downloading files:
 - [cardiac.xlsx](https://github.com/gwu-libraries/gwlibraries-workshops/raw/master/r-for-data-analysis/data/cardiac.xlsx)
 - [cardiac.Rmd](https://github.com/gwu-libraries/gwlibraries-workshops/raw/master/r-for-data-analysis/cardiac.Rmd) - Right-click and press "Save Link As"
 - [sample.Rmd](https://github.com/gwu-libraries/gwlibraries-workshops/raw/master/r-for-data-analysis/sample.Rmd) - Right-click and press "Save Link As"
+
+## Links for further learning
+
+RStudio.com resources:
+* https://education.rstudio.com/learn/
+
+Software Carpentry and Data Carpentry have course materials online (look for the R courses):
+* https://software-carpentry.org/lessons/
+* https://datacarpentry.org/lessons/
+
+r-tutor.com has good resources focused on using R for statistics:
+* http://www.r-tutor.com/r-introduction
+* http://www.r-tutor.com/elementary-statistics
+
+Free books online by Hadley Wickham:
+* [R for Data Science](https://r4ds.had.co.nz/)
+* [Advanced R](https://adv-r.hadley.nz/)
