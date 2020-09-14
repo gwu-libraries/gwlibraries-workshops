@@ -1,27 +1,27 @@
 Timestamp,Which major/department/program are you affiliated with?,Are you primarily a(n),What questions do you have prior to our workshop?,What is your prior experience with programming and coding?,Have you used R before?
-9/3/20 21:23,Economics,Graduate Student,,2,Never
+9/3/20 21:23,Applied Econ,Graduate Student,,2,Never
 9/3/20 21:25,Applied Economics,Graduate Student,,4,Never
 9/3/20 21:26,Applied Economics,Graduate Student,,2,Used for a work or school project
-9/3/20 22:46,Data Science,Graduate Student,,3,In a class/workshop
-9/3/20 22:59,Elliott School of International Affairs,Undergraduate Student,,1,Never
-9/3/20 23:31,Data Science MS,Graduate Student,,3,In a class/workshop
-9/4/20 5:37,Master in International Policy and Practice,Graduate Student,,1,In a class/workshop
-9/4/20 9:46,school of business,Graduate Student,,4,In a class/workshop
-9/4/20 9:57,MA International Affairs -- Econ policy,Graduate Student,n/a,2,Never
-9/4/20 10:16,GSEHD,Graduate Student,Could you recommend some good resources to learn about how to run Structural Equation Modeling with R?,3,In a class/workshop
-9/4/20 13:12,MPH Epidemiology,Graduate Student,,4,Never
-9/4/20 13:13,Economics,Graduate Student,,3,In a class/workshop
-9/4/20 13:35,MA Applied Economics,Graduate Student,,3,In a class/workshop
-9/4/20 14:43,International Affairs,Undergraduate Student,"I have a small amount of background with python, so I'm looking forward to seeing how syntax differs. I'm also wondering if I can have guidance/suggestions/resources to improve and maintain the skills that I gain from this workshop?",1,Never
-9/4/20 15:19,Political Science,Faculty,,2,In a class/workshop
-9/4/20 17:34,CCAS - MA in Applied Economics,Graduate Student,,2,In a class/workshop
-9/4/20 22:02,Master in Political Management,Graduate Student,,1,In a class/workshop
-9/5/20 14:38,Public Policy,Graduate Student,,2,In a class/workshop
-9/6/20 12:40,M.A. in International Economic Policy (MIEP) Program,Graduate Student,,1,Never
-9/7/20 0:18,Clinical Microbiology,Graduate Student,,1,Never
-9/7/20 12:35,Business School,Graduate Student,,3,In a class/workshop
-9/7/20 22:15,Applied Econ,Graduate Student,,3,In a class/workshop
-9/8/20 13:30,Data Science,Graduate Student,When is it preferred to use R over other data analysis languages (Python)?,3,In a class/workshop
-9/8/20 21:18,MA in International Affairs,Graduate Student,,1,Never
-9/8/20 23:51,MPH/Biostats,Graduate Student,,2,In a class/workshop
-9/9/20 16:21,GMBA,Graduate Student,Are you starting from 0? Is any experience required?,2,Never
+9/3/20 22:46,Business School,Graduate Student,,3,In a class/workshop
+9/3/20 22:59,CCAS - MA in Applied Economics,Undergraduate Student,,1,Never
+9/3/20 23:31,Clinical Microbiology,Graduate Student,,3,In a class/workshop
+9/4/20 5:37,Data Science,Graduate Student,,1,In a class/workshop
+9/4/20 9:46,Data Science,Graduate Student,,4,In a class/workshop
+9/4/20 9:57,Data Science MS,Graduate Student,n/a,2,Never
+9/4/20 10:16,Economics,Graduate Student,Could you recommend some good resources to learn about how to run Structural Equation Modeling with R?,3,In a class/workshop
+9/4/20 13:12,Economics,Graduate Student,,4,Never
+9/4/20 13:13,Elliott School of International Affairs,Graduate Student,,3,In a class/workshop
+9/4/20 13:35,GMBA,Graduate Student,,3,In a class/workshop
+9/4/20 14:43,GSEHD,Undergraduate Student,"I have a small amount of background with python, so I'm looking forward to seeing how syntax differs. I'm also wondering if I can have guidance/suggestions/resources to improve and maintain the skills that I gain from this workshop?",1,Never
+9/4/20 15:19,International Affairs,Faculty,,2,In a class/workshop
+9/4/20 17:34,M.A. in International Economic Policy (MIEP) Program,Graduate Student,,2,In a class/workshop
+9/4/20 22:02,MA Applied Economics,Graduate Student,,1,In a class/workshop
+9/5/20 14:38,MA in International Affairs,Graduate Student,,2,In a class/workshop
+9/6/20 12:40,MA International Affairs -- Econ policy,Graduate Student,,1,Never
+9/7/20 0:18,Master in International Policy and Practice,Graduate Student,,1,Never
+9/7/20 12:35,Master in Political Management,Graduate Student,,3,In a class/workshop
+9/7/20 22:15,MPH Epidemiology,Graduate Student,,3,In a class/workshop
+9/8/20 13:30,MPH/Biostats,Graduate Student,When is it preferred to use R over other data analysis languages (Python)?,3,In a class/workshop
+9/8/20 21:18,Political Science,Graduate Student,,1,Never
+9/8/20 23:51,Public Policy,Graduate Student,,2,In a class/workshop
+9/9/20 16:21,school of business,Graduate Student,Are you starting from 0? Is any experience required?,2,Never
