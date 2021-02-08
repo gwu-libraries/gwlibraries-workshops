@@ -1,4 +1,4 @@
-date,state,fips,cases,deaths,state_abbr
+date,state,fips,cases,deaths,postal_code
 2020-01-21,Washington,53,1,0,WA
 2020-01-22,Washington,53,1,0,WA
 2020-01-23,Washington,53,1,0,WA
