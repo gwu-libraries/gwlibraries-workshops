@@ -1,0 +1,23 @@
+Ghost in the Machine
+
+- Share examples of GPT3
+- The discourse(s) of artificial intelligence
+- Looking for the ghost in the machine
+- Not going to work with neural networks -- too hard to see into the "black box"
+- No magic here, though the outcome may seem a little uncanny
+- Only a single technical detail: probability distributions
+	- Example with marbles/candy
+	- How to model that in Python
+- Claude Shannon & Andrey Markov
+- A tedious prospect: counting letters
+  - Shannon's innovation: including **whitespace**
+  - Look at your Counter -- how would you describe this probability distribution?
+  - Our first "language" model
+- Improving the model: random walk
+  - The transition matrix
+  - 1-grams
+  - Bigrams
+  - Generalizing our code for ngrams
+- Using words instead of letters
+- The ghost is in language itself?
+- Shannon's "useless machine"
