@@ -1,0 +1,64 @@
+Python Practice 1
+Algorithms: Thinking in Code
+
+Instructor Outline
+
+
+- Define algorithm: explicit procedure for solving a problem in a replicable way.
+    - Example of a non-replicable, non-explicit solution: giving you directions to the Student Center by pointing. 
+    - Example an algorithmic solution: writing out directions from a specified starting point.
+    - "Procedure" implies a series of discrete steps.
+- Why practice writing algorithms in Python?
+    - Often part of job interviews
+    - Skills:
+        - Problem decomposition
+        - Identification of test cases
+        - Explication of your logic
+-----------------------
+- Ask participants: 
+    - How many of you have written Python code before?
+    - How many of you have used Python to solve a particular problem, outside of a workshop or class assignment? 
+------------------------
+- Workshop structure:
+    - A series of problems
+    - Multiple possible solutions
+    - Focus on *thinking through* the problem
+    - If you don't know much Python syntax, focus on the logic instead
+    - Some problems could be solved more efficiently with other tools/libraries, but solving them with "pure" Python (standard library) will help make the logic more explicit
+--------------------------
+Optional: Python review
+- Python string variable
+- Python numeric variable
+- String indexing + slicing
+- For loop / list comprehension
+- Lists & appending 
+- f strings
+---------------------------
+Problem 1: Finding Palindromes
+    - Test participants on identifying palindromes
+    - What test cases should we include?
+        - N=1
+        - N=even
+        - N=odd
+    - Explain testing setup & demo failure
+-----------------------------
+Problem 2: Run-Length Encoding
+    - Discussion: what kinds of data would RLE be useful for? 
+    - Test cases
+        - N = 1
+        - Sequence contains mix of subsequences of length N=1 and N > 1
+    - Introduce itertools.groupby in discussion of solutions
+-----------------------------
+Problem 3: Aggregating by Groups
+    - Walk through getting the scores file
+    - Show what it looks like in the files browser
+    - If participants have struggled with previous problems, talk through the requirements as a group:
+        - Need to handle numbers as strings
+        - Need a way to keep track of groups (dictionaries)
+        - Three steps: 
+            1. Gather scores by integer group
+            2. Average each group
+            3. Return sorted order
+    - Show how to update averages (no need for extra loop)
+    - Show itertools.groupby solution
+-------------------------------
