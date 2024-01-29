@@ -22,4 +22,3 @@ The workshop materials are in the form of iPython notebooks.  Provided here are 
 
 Need help?  Email us:
 * Dan Kerchner at kerchner@gwu.edu
-* Laura Wrubel at lwrubel@gwu.edu
