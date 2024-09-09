@@ -13,3 +13,8 @@ h2 {
     text-align: justify;
     font-family: sans-serif;
 }
+
+.citation {
+    font-size: .75em;
+    font-family: serif;
+}
