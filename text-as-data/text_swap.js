@@ -7,15 +7,30 @@ TOKENIZED_TEXT = `
 African African African An Business CCDL Center Cissé Cissé Cyber Diplomacy GW GWSB GWSB GWSB Leadership Pape School a about academic adjunct advances against aiming aims also ambassadors an and and and and and and and and and announced as between cofounder community conferences connects cyber cyberattacks cybersecurity cybersecurity cybersecurity defend diplomacy during education enhance for government heads help help include information last leaders leaders leaders members ministers month of of of of of officials opportunity organization partnership partnership partnership policy policymaking practices prepare problems professor providing rapidly real said said seminars shape solve state students technology technology that the the the the the the the to to to to understanding while will with with world year
 `
 
-function randomDisplay() {
-    let randIndex = Math.floor(Math.random() * (2 - 0) + 0);
-    let displayText = [TEXT, TOKENIZED_TEXT][randIndex];
-    let textDiv = document.getElementById('text');
-    displayText.split('\n\n').forEach(paragraph => {
-        let p = document.createElement('p');
-        p.innerHTML = paragraph;
-        textDiv.appendChild(p);
-    });
+SOURCE = `Gross, Sarah. "Business School partners with cybersecurity organization to inform students, African leaders." <i>The GW Hatchet</i>, September 9, 2024. https://gwhatchet.com/2024/09/09/business-school-partners-with-cybersecurity-organization-to-inform-students-african-leaders/`
+
+function createP(text, div) {
+    let p = document.createElement('p');
+    p.innerHTML = text;
+    div.appendChild(p);
 }
 
-window.onload = randomDisplay;
+function addText(e) {
+    let textDiv = document.getElementById('text');
+    textDiv.innerHTML = "";
+    TEXT.split('\n\n').forEach(paragraph => createP(paragraph, textDiv));
+    textDiv.removeEventListener("click", addText);
+    let citation = document.createElement("p");
+    citation.classList.add('citation');
+    citation.innerHTML = SOURCE;
+    textDiv.append(citation);
+}
+
+function textDisplay() {
+    let tokensDiv =  document.getElementById('tokens');
+    createP(TOKENIZED_TEXT, tokensDiv)
+    let textDiv = document.getElementById('text');
+    textDiv.addEventListener("click", addText);
+}
+
+window.onload = textDisplay;

@@ -6,10 +6,15 @@ h2 {
     font-weight: lighter;
 }
 
-#text {
+#text, #tokens {
     padding-left: 25px;
     padding-right: 25px;
     font-size: 1.25em;
     text-align: justify;
     font-family: sans-serif;
+}
+
+.citation {
+    font-size: .75em;
+    font-family: serif;
 }
