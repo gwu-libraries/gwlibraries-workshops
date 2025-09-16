@@ -43,13 +43,13 @@ class Instructors
         if !dept_instructors
             new_instructor = Faker::Name.name
             @instructors[dept] = [new_instructor]
-            return {:course => course, :instructor => new_instructor}
+            return {:course_ => course, :instructor => new_instructor}
         else
             instructor = (dept_instructors + [Faker::Name.name]).sample
             if !@instructors.include? instructor
                 @instructors[dept] << instructor
             end
-            return {:course => course, :instructor => instructor}
+            return {:course_ => course, :instructor => instructor}
         end
     end
 end
@@ -58,7 +58,7 @@ def gen_course(instructors)
     course = instructors.gen_instructor
     course[:credits] = CREDIT_HOURS.sample
     level = ENROLLMENT_LEVEL.sample
-    course[:enrollment] = case level
+    course[:enrolled] = case level
     when 1
         rand(1..30)
     when 2
