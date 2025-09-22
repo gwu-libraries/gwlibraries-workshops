@@ -8,12 +8,40 @@ CREDIT_HOURS = [1.0, 2.0, 3.0]
 
 ENROLLMENT_LEVEL = [1, 1, 1, 2, 2, 3]
 
+COURSE_DAYS = ["MWF", "TTh", "MW", "M", "T", "W"]
+
+COURSE_TIMES = {"am"=>[9, 10, 11], "pm"=>[1, 2, 3, 4, 5, 6, 7]}
+
 def gen_course_title
     "How to #{Faker::Verb.base} your #{Faker::Creature::Animal.name}".titleize
 end
 
 def gen_course_number
     "#{COURSE_LEVELS.sample + rand(100..999)}" 
+end
+
+def gen_sched
+    days = COURSE_DAYS.sample
+    time_of_day = COURSE_TIMES.keys.sample
+    start_time = COURSE_TIMES[time_of_day].sample
+    end_time = case days
+    when "MWF"
+        start_time + 1.5
+    when /MW$|TTh$/
+        start_time + 2
+    else
+        start_time + 3
+    end
+    if end_time.to_i > 12
+        end_time = end_time - 12
+    end
+    start_hr = "#{start_time}:00 #{time_of_day}"
+    end_mins = end_time - end_time.to_i == 0 ? "00" : "30"
+    if (end_time.to_i < start_time) or (end_time.to_i == 12)
+        time_of_day = "pm"
+    end
+    end_hr = "#{end_time.to_i}:#{end_mins} #{time_of_day}"
+    return "#{days} #{start_hr} - #{end_hr}"
 end
 
 class Departments
@@ -66,6 +94,7 @@ def gen_course(instructors)
     when 3
         rand(100..500)
     end
+    course[:meets] = gen_sched
     return course
 end
 
