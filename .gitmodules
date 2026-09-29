@@ -1,0 +1,3 @@
+[submodule "r4stats"]
+	path = r4stats
+	url = https://github.com/kerchner/r4stats
