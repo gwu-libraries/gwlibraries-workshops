@@ -1,3 +1,6 @@
 [submodule "r4stats"]
 	path = r4stats
 	url = https://github.com/kerchner/r4stats
+[submodule "walk-on-the-r-side"]
+	path = walk-on-the-r-side
+	url = https://github.com/kerchner/walk-on-the-r-side
