@@ -4,3 +4,6 @@
 [submodule "walk-on-the-r-side"]
 	path = walk-on-the-r-side
 	url = https://github.com/kerchner/walk-on-the-r-side
+[submodule "half-day-python"]
+	path = half-day-python
+	url = https://github.com/kerchner/half-day-python/
