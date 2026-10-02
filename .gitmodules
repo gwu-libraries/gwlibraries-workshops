@@ -7,3 +7,6 @@
 [submodule "half-day-python"]
 	path = half-day-python
 	url = https://github.com/kerchner/half-day-python/
+[submodule "farther-into-r"]
+	path = farther-into-r
+	url = https://github.com/kerchner/farther-into-r/
